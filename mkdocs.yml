@@ -1,11 +1,18 @@
 site_name: IA en Educación Superior
 site_url: https://sitename.example
+repo_url: https://github.com/mjoviedo/test-mkdocs
+repo_name: mjoviedo/test-mkdocs
+edit_uri: edit/main/docs/
 theme:
   name: material
   icon:
     logo: fontawesome/solid/door-open
+    edit: material/pencil 
+    view: material/eye
   features:
     - navigation.footer
+    - content.action.edit
+    - content.action.view
   palette:
     # Dark Mode
     - scheme: slate
@@ -22,6 +29,7 @@ theme:
         name: Light mode
       primary: blue
       accent: deep orange
+    
 
 markdown_extensions:
   - attr_list
@@ -43,6 +51,12 @@ markdown_extensions:
       alternate_style: true
   - admonition
   - pymdownx.details
+
+plugins:
+  - git-committers:
+      repository: squidfunk/mkdocs-material
+      branch: main
+      enabled: !ENV [CI, false]
 
 extra:
   social:
