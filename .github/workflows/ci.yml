@@ -26,7 +26,7 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install mkdocs-material
-      - run: pip3 install mkdocs-git-authors-plugin
+      - run: pip install mkdocs-git-committers-plugin-2
       - run: mkdocs gh-deploy --force
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
