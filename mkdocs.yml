@@ -5,30 +5,30 @@ repo_name: mjoviedo/test-mkdocs
 edit_uri: edit/main/docs/
 theme:
   name: material
+  language: es
   icon:
-    logo: fontawesome/solid/door-open
-    edit: material/pencil 
-    view: material/eye
+    logo: fontawesome/solid/hexagon-nodes
+    edit: fontawesome/solid/pen-to-square
   features:
     - navigation.footer
+    - navigation.tabs
     - content.action.edit
-    - content.action.view
   palette:
     # Dark Mode
     - scheme: slate
       toggle:
-        icon: material/weather-sunny
-        name: Dark mode
-      primary: blue
-      accent: deep orange
+        icon: fontawesome/solid/sun
+        name: Modo oscuro
+      primary: pink
+      accent: teal
 
     # Light Mode
     - scheme: default
       toggle:
-        icon: material/weather-night
-        name: Light mode
-      primary: blue
-      accent: deep orange
+        icon: fontawesome/solid/moon
+        name: Modo claro
+      primary: teal
+      accent: pink
     
 
 markdown_extensions:
@@ -60,9 +60,29 @@ plugins:
 
 extra:
   social:
-    - icon: simple/youtube
-      link: https://youtube.com/@james-willett
+    - icon: fontawesome/solid/graduation-cap
+      link: https://eco.unc.edu.ar
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/tx4p2AZU
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/economicasunc/
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/user/fceconomicas
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/willettjames
+      link: https://www.linkedin.com/school/economicasunc/
+    - icon: fontawesome/brands/tiktok
+      link: https://www.tiktok.com/@economicasunc
+    - icon: fontawesome/brands/x-twitter
+      link: https://twitter.com/EconomicasUNC
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/EcoUNC/
 
 copyright: FyPE - Facultad de Ciencias Económicas - Universidad Nacional de Córdoba
+
+nav:
+  - Inicio:
+    - Bienvenida: inicio/index.md
+    - Acerca de: inicio/acercade.md
+    - Comunidad: inicio/comunidad.md
+  - Modulo 1:
+    - Presentación: modulo1/intro.md
