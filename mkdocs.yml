@@ -54,7 +54,7 @@ markdown_extensions:
 
 nav:
   - Inicio:
-    - Bienvenida: inicio/index.md
+    - Bienvenida: index.md
     - Acerca de: inicio/acercade.md
     - Comunidad: inicio/comunidad.md
   - Modulo 1:
