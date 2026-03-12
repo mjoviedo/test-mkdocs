@@ -52,6 +52,15 @@ markdown_extensions:
   - admonition
   - pymdownx.details
 
+nav:
+  - Inicio:
+    - Bienvenida: inicio/index.md
+    - Acerca de: inicio/acercade.md
+    - Comunidad: inicio/comunidad.md
+  - Modulo 1:
+    - Presentación: modulo1/intro.md
+
+
 plugins:
   - git-committers:
       repository: squidfunk/mkdocs-material
@@ -79,10 +88,3 @@ extra:
 
 copyright: FyPE - Facultad de Ciencias Económicas - Universidad Nacional de Córdoba
 
-nav:
-  - Inicio:
-    - Bienvenida: inicio/index.md
-    - Acerca de: inicio/acercade.md
-    - Comunidad: inicio/comunidad.md
-  - Modulo 1:
-    - Presentación: modulo1/intro.md
