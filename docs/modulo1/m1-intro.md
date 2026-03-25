@@ -1,10 +1,4 @@
-# Módulo Fundamentos
-
-## Contenidos
-
-¡Aquí empieza todo! 
-
-En este módulo introducimos la modalidad de cursado, hacemos un paneo general del campo de la IA y profundizaremos en los conocimientos esenciales para entender el funcionamiento de estas tecnologías.
+# Módulo 1: Fundamentos
 
 Comenzaremos familiarizándonos con los orígenes históricos de la IA y diferenciaremos los campos de estudio principales. Después repasaremos los fundamentos de la computación y del machine learning. Posteriormente nos introduciremos en el deep learning y las redes neuronales, para llegar al Procesamiento de Lenguaje Natural. Continuaremos con una introducción básica a las IAs generativas de texto e imagen. Finalizaremos revisando la estructura básica del stack de IA aplicada.
 
@@ -12,19 +6,10 @@ Al finalizar esta unidad, no solo comprenderás los fundamentos del funcionamien
 
 Esta sección abarca intencionadamente conocimientos considerados técnicos. Pero entendemos que es absurdo adentrarse directamente en discusiones sociales, culturales, pedagógicas o utilizar herramientas sin tener una noción de qué es lo que tenemos entre manos y cuáles pueden ser sus ventajas y limitaciones.
 
+# Módulo Fundamentos
 
-## Tabla de capìtulos y lecciones
 
-
-Capítulo 1: Introducción al cursado
-	Origen, fundamentación y objetivos
-	Estructura del curriculo, modulos, lecciones
-	Modalidad de cursado
-Comunidad
-Consejos para el cursado
-	Sugerir cambios
-
-Capítulo 2: Definiendo el campo
+Capítulo 1: Definiendo el campo
 	¿Qué es la IA?
 IA ML DL IAgen Chatbots
 ¿Por qué es especial?

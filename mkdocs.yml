@@ -57,11 +57,11 @@ markdown_extensions:
 nav:
   - Inicio: index.md
   - Empecemos:
-    - Información: empecemos/info.md
-    - Créditos: empecemos/creditos.md
+    - Introducción: empecemos/intro.md
+    - Objetivos: empecemos/objetivos.md
     - Comunidad: empecemos/comunidad.md
   - Modulo 1:
-    - Presentación: modulo1/intro.md
+    - Presentación: modulo1/m1-intro.md
 
 
 plugins:
