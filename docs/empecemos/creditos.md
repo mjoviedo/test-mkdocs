@@ -1,4 +1,4 @@
-## Acerca de
+## Créditos
 
 Este proyecto fue creado desde la Facultad de Ciencias Económicas de la Universidad Nacional de Córdoba para quienes deseen indagar sobre el uso de la Inteligencia Artificial en la Educación Superior.
 

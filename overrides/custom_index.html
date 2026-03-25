@@ -1,0 +1,99 @@
+{% extends "main.html" %}
+
+{% block hero %}
+  <section class="hero-parallax">
+    <div class="hero-content">
+      <h1 class="hero-title">Inteligencia Artificial y Educación Superior</h1>
+      <p class="hero-subtitle">
+        Curso online, abierto y gratuito. 
+        <br>
+        Desde cero y a tu propio ritmo. 
+      </p>
+      <div class="hero-actions">
+        <a href="getting-started/" class="btn btn-primary">Empecemos</a>
+        <a href="#como-funciona" class="btn btn-secondary">¿Cómo funciona?</a>
+      </div>
+    </div>
+  </section>
+{% endblock %}
+
+{% block content %}
+  <section id="como-funciona" class="landing-section">
+    <div class="section-header">
+      <h2>Cómo funciona</h2>
+      <p>En pocos años la IA ha irrumpido en las aulas y en las oficinas. Para este curso, hemos realizado una curaduría de materiales fundamentales.</p>
+    </div>
+    
+    <div class="feature-grid">
+      <div class="feature-card">
+        <div class="feature-icon">📚</div>
+        <h3>Aprende</h3>
+        <p>Con un plan de estudios que incluye tutoriales y artículos cuidadosamente seleccionados.</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">🛠️</div>
+        <h3>Construye</h3>
+        <p>Desarrollarás proyectos para fortalecer conocimientos y construir tu caja de herramientas personal.</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">🤝</div>
+        <h3>Conecta</h3>
+        <p>Nadie aprende en soledad. Obtén ayuda de una comunidad educativa abierta y colaborativa.</p>
+      </div>
+    </div>
+  </section>
+
+  <hr class="section-divider">
+
+  <section class="full-width-parallax section-nodes">
+    <div class="parallax-overlay">
+      <div class="section-header">
+        <h2 class="light-text">Aprende los fundamentos
+          <br>
+          Luego profundiza</h2>
+      </div>
+      
+      <div class="nodes-container">
+        <div class="node">Orígenes de la IA</div>
+        <div class="node">Estructura del campo</div>
+        <div class="node">Cómo funcionan los LLM</div>
+        <div class="node">Generadores de imágenes</div>
+        <div class="node">Potencias y limitaciones</div>
+        <div class="node">Stack de aplicaciones</div>
+        <div class="node">Diseño de prompts</div>
+        <div class="node">Detección de sesgos</div>
+        <div class="node">Geopolítica de la IA</div>
+        <div class="node">Transformación del trabajo</div>
+        <div class="node">Herramientas para el aula</div>
+        <div class="node">Estudiar con IA</div>
+        <div class="node">Automatizaciones</div>
+      </div>
+    </div>
+  </section>
+
+  <section class="landing-section section-connect">
+    <div class="split-container">
+      <div class="split-text">
+        <h2>Conecta y colabora</h2>
+        <p>
+          El campo de la IA está en constante cambio. Este proyecto se mantiene 
+          actualizado gracias a una comunidad activa. Conecta y participa a medida que cursas, colaborando con la mejora continua de este proyecto.
+        </p>
+        <a href="comunidad/" class="link-arrow">Participar <span>→</span></a>
+      </div>
+      <div class="split-image">
+        <img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=800&q=80" alt="Comunidad AI">
+      </div>
+    </div>
+  </section>
+  
+  <hr class="section-divider">
+
+  <section class="final-cta">
+    <div class="cta-content">
+      <h2>¿Todo listo?</h2>
+      <br>
+      <a href="empecemos/info/" class="btn-cta">Empecemos</a>
+    </div>
+  </section>
+{% endblock %}

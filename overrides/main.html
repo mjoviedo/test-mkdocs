@@ -1,0 +1,7 @@
+{% extends "base.html" %}
+
+{% block tabs %}
+  {% if "navigation.tabs" in config.theme.features %}
+    {{ super() }}
+  {% endif %}
+{% endblock %}

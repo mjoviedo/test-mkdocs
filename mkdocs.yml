@@ -5,6 +5,7 @@ repo_name: mjoviedo/test-mkdocs
 edit_uri: edit/main/docs/
 theme:
   name: material
+  custom_dir: overrides
   language: es
   icon:
     logo: fontawesome/solid/hexagon-nodes
@@ -12,6 +13,7 @@ theme:
   features:
     - navigation.footer
     - navigation.tabs
+    - navigation.tabs.sticky
     - content.action.edit
   palette:
     # Dark Mode
@@ -53,10 +55,11 @@ markdown_extensions:
   - pymdownx.details
 
 nav:
-  - Inicio:
-    - Bienvenida: index.md
-    - Acerca de: inicio/acercade.md
-    - Comunidad: inicio/comunidad.md
+  - Inicio: index.md
+  - Empecemos:
+    - Información: empecemos/info.md
+    - Créditos: empecemos/creditos.md
+    - Comunidad: empecemos/comunidad.md
   - Modulo 1:
     - Presentación: modulo1/intro.md
 
@@ -66,6 +69,9 @@ plugins:
       repository: squidfunk/mkdocs-material
       branch: main
       enabled: !ENV [CI, false]
+
+extra_css:
+  - stylesheets/extra.css
 
 extra:
   social:
