@@ -387,3 +387,10 @@
   --md-text-font: "Reforma 2018", system-ui, Helvetica, Arial, sans-serif;
 }
 
+.mermaid {
+  width: 100%;
+}
+
+.mermaid svg {
+  width: 100%;
+}

@@ -13,17 +13,6 @@ graph TD
     B --> D[Lección 2];
     B --> E[etc...];
     A --> F[Capítulo 2];       
-    F --> G[Lección 1];
-    F--> H[etc];
-```
+``` 
 
 A ver si la seguimos
-
-``` mermaid
-graph TD
-  A[Start] --> B{Error?};
-  B -->|Yes| C[Hmm...];
-  C --> D[Debug];
-  D --> B;
-  B ---->|No| E[Yay!];
-```
