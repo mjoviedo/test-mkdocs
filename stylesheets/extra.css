@@ -1,0 +1,396 @@
+.admonition p, .admonition-title {
+  font-size: 1.2em;
+  opacity: 0.8;
+}
+
+
+/* --- Parallax Hero Section --- */
+.hero-parallax {
+  /* 1. Full Width & Position */
+  width: 100%;
+  margin-top: 0; /* Forces no margin top */
+  padding-top: 0px;
+  position: relative;
+  
+  /* 2. Background Image Settings */
+  background-image: url('../assets/hero-bg.jpg'); /* Adjust path if needed */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  /* 3. The Parallax Effect */
+  background-attachment: fixed;
+
+  /* 4. Height and Centering Content */
+  min-height: 90vh; /* Takes up 80% of the viewport height */
+  display: flex;
+  align-items: center; /* Vertical Center */
+  justify-content: center; /* Horizontal Center */
+  
+  /* 5. Overlay (Darkens image for text readability) */
+  background-blend-mode: overlay;
+  background-color: rgba(0, 0, 0, 0.7); /* 50% black overlay */
+  
+  /* 6. Fix for older Material versions top spacing */
+  z-index: 0;
+}
+
+/* Ensure content inside the hero is readable */
+.hero-content {
+  text-align: center;
+  padding: 40px;
+  color: white !important; /* Force white text over the background image */
+  max-width: 800px;
+  z-index: 2;
+}
+
+.hero-title {
+  font-size: 2.7rem;
+  font-weight: 800;
+  margin-bottom: 10px;
+  color: white !important; /* Ensure title is white */
+  border: none; /* Removes Material's default h1 underline */
+}
+
+.hero-subtitle {
+  font-size: 1.2rem;
+  margin: 0 auto 30px auto;
+  opacity: 0.9;
+  line-height: 1.6;
+}
+
+/* --- Keep the Buttons (updated colors) --- */
+.hero-actions {
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+  flex-wrap: wrap;
+  font-size: 1.5em;
+}
+
+.btn {
+  padding: 12px 24px;
+  border-radius: 4px;
+  font-weight: 700;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.btn:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 20px var(--md-primary-fg-color);
+  transition: all 0.3s ease;
+}
+
+.btn-primary {
+  background-color: var(--md-primary-fg-color);
+  color: white !important; /* Match primary button text */
+  transition: all 0.3s ease;
+}
+
+.btn-secondary {
+  border: 2px solid white;
+  color: white !important; /* Match secondary button text */
+}
+
+
+
+/* Fix for Material's layout: ensure the container doesn't add 
+   unwanted padding at the top of the hero block */
+.md-content {
+  margin-top: 0 !important;
+}
+
+.md-main__inner {
+  margin-top: 0 !important;
+}
+
+/* General Landing Layout */
+.landing-section {
+  padding: 60px 0;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.section-header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.section-header h2 {
+  font-size: 2rem;
+  font-weight: 600;
+  border: none;
+  margin-bottom: 10px;
+}
+
+/* Feature Grid (3 Columns) */
+.feature-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 30px;
+}
+
+.feature-card {
+  padding: 30px;
+  border: 2px solid var(--md-primary-fg-color);
+  border-radius: 4px;
+  text-align: center;
+  transition: all 0.3s ease;
+}
+
+.feature-card:hover {
+  transform: translateY(-5px);
+  transition: all 0.3s ease;
+}
+
+.feature-icon {
+  font-size: 3rem;
+  margin-bottom: 15px;
+}
+
+
+/* --- Full Width Parallax Section --- */
+.full-width-parallax {
+  /* 1. Force Full Width Breakout */
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+
+  /* 2. Parallax Background */
+  background-image: url('../assets/hero-bg.jpg'); /* Use same image or a new one */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax-overlay {
+  /* 3. Dark Overlay for readability */
+  background: rgba(0, 0, 0, 0.7); 
+  padding: 100px 20px;
+  width: 100%;
+}
+
+.light-text {
+  font-size: 2rem;
+  font-weight: 600 !important;
+  margin-bottom: 10px;
+  color: white !important; /* Ensure title is white */
+  border: none; /* Removes Material's default h1 underline */
+}
+
+/* --- Refined Network Nodes --- */
+.nodes-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.node {
+  padding: 12px 25px;
+  background: rgba(255, 255, 255, 0.1); /* Semi-transparent */
+  /* backdrop-filter: blur(10px); Glassmorphism effect 
+  -webkit-backdrop-filter: blur(10px); */
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 4px;
+  color: white !important;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}
+
+.node:hover {
+  background: var(--md-primary-fg-color);
+  border-color: var(--md-primary-fg-color);
+  transform: scale(1.05);
+  box-shadow: 0 0 20px var(--md-primary-fg-color);
+}
+
+
+/* --- Split Community Section --- */
+.section-connect {
+  padding: 100px 0;
+}
+
+.split-container {
+  display: flex;
+  align-items: center;
+  gap: 60px;
+  flex-wrap: wrap; /* Stacks on mobile */
+}
+
+.split-text {
+  flex: 1;
+  min-width: 300px;
+}
+
+.split-text h2 {
+  font-size: 2.5rem;
+  font-weight: 600;
+  border: none !important;
+  margin-bottom: 20px;
+}
+
+.split-text p {
+  font-size: 1.1rem;
+  line-height: 1.7;
+  color: var(--md-typeset-color);
+  opacity: 0.8;
+  margin-bottom: 25px;
+}
+
+.link-arrow {
+  font-weight: 700;
+  color: var(--md-primary-fg-color);
+  text-decoration: none;
+  font-size: 1.1rem;
+  transition: all 0.3s ease;
+}
+
+.link-arrow:hover span {
+  padding-left: 10px;
+  transition: all 0.3s ease;
+}
+
+.split-image {
+  flex: 1;
+  min-width: 300px;
+}
+
+.split-image img {
+  width: 100%;
+  border-radius: 4px;
+  box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+}
+
+/* --- Final Power CTA --- */
+.final-cta {
+  background-color: var(--md-default-bg-color);
+  padding: 120px 20px;
+  text-align: center;
+  border-top: 1px solid var(--md-divider-color);
+  height: 60vh;
+}
+
+.cta-content h2 {
+  font-size: 2rem;
+  font-weight: 900;
+  margin-bottom: 15px;
+  border: none !important;
+}
+
+.cta-content p {
+  font-size: 1.3rem;
+  margin-bottom: 40px;
+  opacity: 0.7;
+}
+
+.btn-cta {
+  padding: 12px 24px;
+  display: inline-block;
+  border-radius: 4px;
+  font-weight: 700;
+  text-decoration: none;
+  background-color: var(--md-primary-fg-color);
+  color: white !important; /* Match primary button text */
+  transition: all 0.3s ease;
+}
+
+.btn-cta:hover {
+  box-shadow: 0 0 20px var(--md-primary-fg-color);
+  transform: scale(1.1);
+  display: inline-block;
+  transition: all 0.3s ease;
+}
+
+
+
+@media screen and (max-width: 768px) {
+  .split-container {
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .cta-content h2 {
+    font-size: 2.5rem;
+  }
+}
+
+.section-divider {
+  border: 1px;
+  height: 2px;
+  background-image: linear-gradient(to right, rgba(0,0,0,0), var(--md-divider-color), rgba(0,0,0,0));
+  margin: 40px 0;
+}
+
+
+
+
+/* 1. Define fuente personalizada UNC */
+
+/* --- Reforma 2018 Font Family Setup ---  */
+
+@font-face {
+  font-family: 'Reforma 2018';
+  src: url('../assets/fonts/Reforma2018-Blanca.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Reforma 2018';
+  src: url('../assets/fonts/Reforma2018-BlancaItalica.woff2') format('woff2');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Reforma 2018';
+  src: url('../assets/fonts/Reforma2018-Gris.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Reforma 2018';
+  src: url('../assets/fonts/Reforma2018-GrisItalica.woff2') format('woff2');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Reforma 2018';
+  src: url('../assets/fonts/Reforma2018-Negra.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Reforma 2018';
+  src: url('../assets/fonts/Reforma2018-NegraItalica.woff2') format('woff2');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+
+:root {
+  --md-text-font: "Reforma 2018", system-ui, Helvetica, Arial, sans-serif;
+}
+
+.mermaid {
+  width: 100%;
+}
+
+.mermaid svg {
+  width: 100%;
+}
