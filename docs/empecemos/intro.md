@@ -1,7 +1,8 @@
 ## ¡Aquí empieza todo!
 
 !!! abstract "Contenido"
-    En esta introducción presentaremos la modalidad de cursado, hacemos un paneo general del campo de la IA y profundizaremos en los conocimientos esenciales para entender el funcionamiento de estas tecnologías.
+    En este apartado presentamos la propuesta del curso, punteamos los contenidos
+    introducción presentaremos la modalidad de cursado, hacemos un paneo general del campo de la IA y profundizaremos en los conocimientos esenciales para entender el funcionamiento de estas tecnologías.
 
 Al `finalizar` esta unidad tendrás una idea clara de los objetivos del curso, la estructura y la dinámica de cursado. 
 

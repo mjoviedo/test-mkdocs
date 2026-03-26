@@ -1,11 +1,8 @@
-/* COLORES */
-* {
-  font-size: 1.05em;
-}
-
 .admonition p, .admonition-title {
   font-size: 1.2em;
+  opacity: 0.8;
 }
+
 
 /* --- Parallax Hero Section --- */
 .hero-parallax {

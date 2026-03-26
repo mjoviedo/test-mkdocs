@@ -21,15 +21,15 @@ theme:
       toggle:
         icon: material/brightness-2
         name: Modo oscuro
-      primary: cyan
-      accent: pink
+      primary: pink
+      accent: teal
 
     # Light Mode
     - scheme: default
       toggle:
         icon: material/brightness-6
         name: Modo claro
-      primary: cyan
+      primary: teal
       accent: pink
     
 extra_css:
@@ -61,18 +61,22 @@ nav:
   - Empecemos:
     - Introducción: empecemos/intro.md
     - Objetivos: empecemos/objetivos.md
+    - Estructura: empecemos/estructura.md
     - Comunidad: empecemos/comunidad.md
   - Modulo 1:
     - Presentación: modulo1/m1-intro.md
 
 
 plugins:
+  - search:
+      lang: es
   - git-committers:
       repository: squidfunk/mkdocs-material
       branch: main
       enabled: !ENV [CI, false]
 
-
+extra_javascript:
+  - https://unpkg.com/mermaid@11.5.0/dist/mermaid.min.js
 
 extra:
   social:
