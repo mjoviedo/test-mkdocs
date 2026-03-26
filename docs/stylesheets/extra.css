@@ -1,3 +1,12 @@
+/* COLORES */
+* {
+  font-size: 1.05em;
+}
+
+.admonition p, .admonition-title {
+  font-size: 1.2em;
+}
+
 /* --- Parallax Hero Section --- */
 .hero-parallax {
   /* 1. Full Width & Position */
@@ -329,9 +338,8 @@
 
 /* 1. Define fuente personalizada UNC */
 
-/* --- Reforma 2018 Font Family Setup --- */
+/* --- Reforma 2018 Font Family Setup ---  */
 
-/* Blanca (Light/Regular) */
 @font-face {
   font-family: 'Reforma 2018';
   src: url('../assets/fonts/Reforma2018-Blanca.woff2') format('woff2');
@@ -347,7 +355,6 @@
   font-display: swap;
 }
 
-/* Gris (Medium) */
 @font-face {
   font-family: 'Reforma 2018';
   src: url('../assets/fonts/Reforma2018-Gris.woff2') format('woff2');
@@ -363,7 +370,6 @@
   font-display: swap;
 }
 
-/* Negra (Bold) */
 @font-face {
   font-family: 'Reforma 2018';
   src: url('../assets/fonts/Reforma2018-Negra.woff2') format('woff2');
@@ -379,8 +385,8 @@
   font-display: swap;
 }
 
-/* 3. Apply the fonts using Material's CSS Variables */
+
 :root {
-  /* This controls the body text */
-  --md-text-font: "Reforma 2018", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
+  --md-text-font: "Reforma 2018", system-ui, Helvetica, Arial, sans-serif;
 }
+

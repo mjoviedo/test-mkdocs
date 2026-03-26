@@ -19,19 +19,21 @@ theme:
     # Dark Mode
     - scheme: slate
       toggle:
-        icon: fontawesome/solid/sun
+        icon: material/brightness-2
         name: Modo oscuro
-      primary: pink
-      accent: teal
+      primary: cyan
+      accent: pink
 
     # Light Mode
     - scheme: default
       toggle:
-        icon: fontawesome/solid/moon
+        icon: material/brightness-6
         name: Modo claro
-      primary: teal
+      primary: cyan
       accent: pink
     
+extra_css:
+  - stylesheets/extra.css
 
 markdown_extensions:
   - attr_list
@@ -70,8 +72,7 @@ plugins:
       branch: main
       enabled: !ENV [CI, false]
 
-extra_css:
-  - stylesheets/extra.css
+
 
 extra:
   social:
