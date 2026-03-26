@@ -323,3 +323,64 @@
   background-image: linear-gradient(to right, rgba(0,0,0,0), var(--md-divider-color), rgba(0,0,0,0));
   margin: 40px 0;
 }
+
+
+
+
+/* 1. Define fuente personalizada UNC */
+
+/* --- Reforma 2018 Font Family Setup --- */
+
+/* Blanca (Light/Regular) */
+@font-face {
+  font-family: 'Reforma 2018';
+  src: url('../assets/fonts/Reforma2018-Blanca.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Reforma 2018';
+  src: url('../assets/fonts/Reforma2018-BlancaItalica.woff2') format('woff2');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Gris (Medium) */
+@font-face {
+  font-family: 'Reforma 2018';
+  src: url('../assets/fonts/Reforma2018-Gris.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Reforma 2018';
+  src: url('../assets/fonts/Reforma2018-GrisItalica.woff2') format('woff2');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Negra (Bold) */
+@font-face {
+  font-family: 'Reforma 2018';
+  src: url('../assets/fonts/Reforma2018-Negra.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Reforma 2018';
+  src: url('../assets/fonts/Reforma2018-NegraItalica.woff2') format('woff2');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* 3. Apply the fonts using Material's CSS Variables */
+:root {
+  /* This controls the body text */
+  --md-text-font: "Reforma 2018", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
+}
