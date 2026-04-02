@@ -11,9 +11,12 @@ theme:
     logo: fontawesome/solid/hexagon-nodes
     edit: fontawesome/solid/pen-to-square
   features:
+    - navigation.instant
+    - navigation.tracking
     - navigation.footer
     - navigation.tabs
     - navigation.tabs.sticky
+    - navigation.sections
     - content.action.edit
   palette:
     # Dark Mode
@@ -55,16 +58,24 @@ markdown_extensions:
       alternate_style: true
   - admonition
   - pymdownx.details
+  - toc:
+      permalink: true
+      title: 
+      toc_depth: 3
 
 nav:
   - Inicio: index.md
-  - Empecemos:
+  - Presentación:
     - Introducción: empecemos/intro.md
     - Objetivos: empecemos/objetivos.md
     - Estructura: empecemos/estructura.md
     - Comunidad: empecemos/comunidad.md
   - Modulo 1:
     - Presentación: modulo1/m1-intro.md
+  - Modulo 2:
+    - Presentación: modulo2/m2-intro.md
+  - Modulo 3:
+    - Presentación: modulo3/m3-intro.md
 
 plugins:
   - search:
