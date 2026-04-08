@@ -1,4 +1,4 @@
-!!! success "Resumen"
+!!! success ""
     El curso *IA en Educación Superior* se propone como un espacio de formación abierta, permanente y colaborativa enfocada en el **uso e impacto de la IA en la educación superior argentina**. 
 
 ## Fundamentación
@@ -7,9 +7,9 @@ El proyecto se gesta en el [Área de Formación Docente y Producción Educativa 
 
 Si bien la FCE, UNC y diferentes instituciones ya cuentan con vastos [antecedentes de formación](antecedentes.md), el carácter puntual de las mismas, su dinámica predominantemente sincrónica y la dispersión de sus registros limitan su llegada.
 
-En este contexto, la propuesta actual busca dar respuesta a dos dificultades: 
+Esta propuesta busca dar respuesta a dos asuntos: 
 
-1. la dificultad de **acceso y sistematización** de recursos y materiales de estudio y
+1. la dificultad de **acceso** a recursos y materiales de estudio sistematizados, y
 2. la necesidad de un espacio permanente de **intercambio y discusión**.
 
 ---
@@ -17,8 +17,14 @@ En este contexto, la propuesta actual busca dar respuesta a dos dificultades:
 ## Objetivos
 
 - Promover la comprensión del funcionamiento básico de la tecnología, así como los principales actores y tendencias en el campo; 
-- Mapear las discusiones más importantes de su interacción con los sistemas sociales, 
+- Mapear las discusiones más importantes de su interacción con los sistemas sociales; y 
 - Procurar los elementos conceptuales a instrumentales necesarios para intervenir apropiadamente en su implementación (o no) en el contexto de la educación superior en argentina.
+
+---
+
+## Modalidad de cursado
+
+Este curso está diseñado para ser cursado de forma virtual y asincrónica. No hay fechas de inicio ni de cierre, puedes cursarlo a tu propio ritmo.
 
 ---
 
@@ -43,19 +49,15 @@ Cada **Módulo** se compone de ***Capítulos*** y estos, de ***Lecciones***. De 
             └ Lección 2
             └ Etc.
 
-Las *lecciones* son el cuerpo principal de esta propuesta. Cada lección está pensada como un avance en una progresión, por lo que se recomienda NO SALTAR LECCIONES
+- Los módulos son los grandes campos temáticos. Recomendamos seguirlos linealmente, pero no es indispensable.
 
-## Modalidad de cursado
+- Los capítulos son los organizadores del aprendizaje. Al igual que las lecciones están pensados en una progresión por lo que recomendamos no saltearlos o dejarlos inconclusos.
 
-Cada lección cuenta con una selección de materiales abiertos, propuestas de actividades y otros enlaces valiosos para ampliar la lectura.
-Se sirve de recursos de formación ya creados en otros contextos, los sistematiza en una progresión didáctica y acompaña con una propuesta de comunidad digital que fortalezca la participación socio-pedagógica y la mejora continua.
+- Las *lecciones* son el cuerpo principal de esta propuesta. Son básicamente una sistematización de contenidos abiertos producidos en otros contextos, didactizados en una progresión didáctica. Cada lección plantea un objetivo de aprendizaje, propone una serie de materiales de lectura/visualización obligatoria y finaliza con preguntas de control. 
+
+- En determinados momentos del curso se propone la realización de PROYECTOS, que consiste en trabajos personales por fuera de la plataforma de estudio. Estas instancias son sumamente relevantes para el éxito del curso.
+
+!!! tip "Importante"
+    A continuación compartimos [Recomendaciones para el cursado](recomendaciones.md).  
 
 
-
-## Comunidad
-
-
-
-## ¿Cómo empezar?
-
-Puedes comenzar con el Módulo 1: Fundamentos

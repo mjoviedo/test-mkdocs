@@ -39,6 +39,7 @@ extra_css:
   - stylesheets/extra.css
 
 markdown_extensions:
+  - abbr
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
@@ -66,10 +67,11 @@ markdown_extensions:
 nav:
   - Inicio: index.md
   - Presentación:
-    - Introducción: empecemos/intro.md
-    - Objetivos: empecemos/objetivos.md
-    - Estructura: empecemos/estructura.md
+    - Sobre el curso: empecemos/intro.md
+    - Recomendaciones: empecemos/recomendaciones.md
     - Comunidad: empecemos/comunidad.md
+    - Contribuir: empecemos/contribuir.md
+    - Antecedentes: empecemos/antecedentes.md
   - Modulo 1:
     - Presentación: modulo1/m1-intro.md
   - Modulo 2:

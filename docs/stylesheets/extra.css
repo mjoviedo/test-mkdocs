@@ -13,7 +13,7 @@
   position: relative;
   
   /* 2. Background Image Settings */
-  background-image: url('../assets/hero-bg.jpg'); /* Adjust path if needed */
+  background-image: url('../assets/transformer2.png'); /* Adjust path if needed */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -27,9 +27,9 @@
   align-items: center; /* Vertical Center */
   justify-content: center; /* Horizontal Center */
   
-  /* 5. Overlay (Darkens image for text readability) */
-  background-blend-mode: overlay;
-  background-color: rgba(0, 0, 0, 0.7); /* 50% black overlay */
+  /* 5. Overlay (Darkens image for text readability)  */
+  background-blend-mode: darken;
+  background-color: rgba(2, 48, 42, 0.95); /* 50% black overlay */
   
   /* 6. Fix for older Material versions top spacing */
   z-index: 0;
@@ -161,7 +161,7 @@
   margin-right: -50vw;
 
   /* 2. Parallax Background */
-  background-image: url('../assets/hero-bg.jpg'); /* Use same image or a new one */
+  background-image: url('../assets/transformer.png'); /* Use same image or a new one */
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -170,7 +170,7 @@
 
 .parallax-overlay {
   /* 3. Dark Overlay for readability */
-  background: rgba(0, 0, 0, 0.7); 
+  background: rgba(0, 37, 37, 0.95); 
   padding: 100px 20px;
   width: 100%;
 }

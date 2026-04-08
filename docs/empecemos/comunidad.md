@@ -1,7 +1,13 @@
-# Comunidad
 
-Creemos que el aprendizaje siempre es mejor cuando es en sociedad. También vemos que el campo de la IA está en constante transformación. Por estas dos razones este proyecto no es una currícula cerrada y completamente individual, sino un mapa en formato borrador donde todos quienes participamos tenemos algo para aportar.
+## Comunidad
 
-En este sentido hemos creado un espacio de encuentro permanente en Discord, donde se pueden comentar las dudas del cursado, compartir novedades, materiales y herramientas y proponer las mejoras que se crean necesarias para el cursado de este trayecto.
+!!! tip "Todo aprendizaje es intercambio"
+    La comunidad no es un complemento del curso sino un **espacio vital** para construir el aprendizaje. 
 
-> Acceder a la comunidad
+Hemos diseñado un espacio en Discord, una plataforma de comunicación gratuita que permite a los usuarios interactuar mediante chat de texto, voz y video, así como compartir archivos y contenido multimedia.
+
+Esperamos que pueda ser usado para expresar tus dudas e inquietudes, responder las consultas que puedas, compartir tus ideas e impresiones y aportar lo que creas que pueda servirle a otros en el cursado. 
+
+[Acceder a la comunidad :material-forum-outline:](#){ .md-button }
+
+

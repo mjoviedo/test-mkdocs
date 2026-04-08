@@ -1,13 +1,6 @@
-# 🚀 Contribuír
+# 🚀 Colaborar en el repositorio git
 
-Gracias por querer ayudar en este proyecto. 
-
-Valoramos la capacidad de la comunidad universitaria argentina para cuidar y sostener este espacio actualizado y útil.
-
-No te preocupes si no eres experto en programación o Git, aquí te explicamos cómo hacerlo paso a paso de la manera más sencilla.
-
-Puedes ver una versión de esta guía en el [sitio en vivo]($siteurl/empecemos/contributing.md).
-
+Gracias por querer ayudar en este proyecto. No te preocupes si no eres experto en programación o Git, aquí te explicamos cómo hacerlo paso a paso de la manera más sencilla.
 
 ### 1. Haz un "Fork" del proyecto
 

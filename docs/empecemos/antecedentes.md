@@ -1,8 +1,6 @@
 # Antecedentes
 
-**Lista actualizada a mayo 2025.** 
-
-👉 Abierta a aportes y correcciones.
+No queremos cerrar la presentación sin reconocer todas las propuestas, cursos e instituciones que reconocemos como antecedentes valiosos a nivel local y regional.
 
 ## Facultad de Ciencias Económicas UNC
 
@@ -160,3 +158,12 @@
     - A+ Alliance https://aplusalliance.org/ 
     - UNESCO: https://www.unesco.org/es/digital-education/artificial-intelligence 
     - Large Model Systems Organization (LMSYS Org) https://lmsys.org/about/ 
+
+---
+
+!!! warning "*Lista actualizada a mayo 2025.*"
+    👉 Como el resto del curso, la lista está abierta a aportes y correcciones.
+
+---
+
+Ahora sí, [¿comenzamos?](../modulo1/m1-intro.md)
