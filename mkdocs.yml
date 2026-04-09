@@ -16,8 +16,10 @@ theme:
     - navigation.footer
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.sections
+#    - navigation.sections
     - content.action.edit
+    - navigation.expand
+    
   palette:
     # Dark Mode
     - scheme: slate
@@ -72,8 +74,13 @@ nav:
     - Comunidad: empecemos/comunidad.md
     - Contribuir: empecemos/contribuir.md
     - Antecedentes: empecemos/antecedentes.md
-  - Modulo 1:
+    - Créditos: empecemos/creditos.md
+  - M1 | Fundamentos:
     - Presentación: modulo1/m1-intro.md
+    - Cap 1 | Definiendo el campo:
+      - 1. ¿Qué es la IA?: modulo1/capitulo1/m1c1l1.md
+    - Cap 2 | Desarrollo histórico:
+      - 1. Historia: modulo1/capitulo1/m1c1l1.md
   - Modulo 2:
     - Presentación: modulo2/m2-intro.md
   - Modulo 3:

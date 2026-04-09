@@ -1,60 +1,77 @@
-# Módulo 1: Fundamentos
+# Módulo 1: Presentación
 
-Comenzaremos familiarizándonos con los orígenes históricos de la IA y diferenciaremos los campos de estudio principales. Después repasaremos los fundamentos de la computación y del machine learning. Posteriormente nos introduciremos en el deep learning y las redes neuronales, para llegar al Procesamiento de Lenguaje Natural. Continuaremos con una introducción básica a las IAs generativas de texto e imagen. Finalizaremos revisando la estructura básica del stack de IA aplicada.
-
-Al finalizar esta unidad, no solo comprenderás los fundamentos del funcionamiento de la IA, sino que también podrás identificar y diferenciar las tecnologías que se utilizan en las aplicaciones comerciales. Serás capaz de explicar someramente el funcionamiento de la IA.
-
-Esta sección abarca intencionadamente conocimientos considerados técnicos. Pero entendemos que es absurdo adentrarse directamente en discusiones sociales, culturales, pedagógicas o utilizar herramientas sin tener una noción de qué es lo que tenemos entre manos y cuáles pueden ser sus ventajas y limitaciones.
-
-# Módulo Fundamentos
+!!! info "Descripción general"
+	Presentamos los objetivos de aprendizaje, la estructura de contenidos, el proyecto a desarrollar y sugerimos algunas herramientas para que saques todo el provecho del cursado.
 
 
-Capítulo 1: Definiendo el campo
-	¿Qué es la IA?
-IA ML DL IAgen Chatbots
-¿Por qué es especial?
-Cambio de paradigma de la computaciòn tradicional
-	Resolver problemas complejos
-	El objetivo móvil
+## ¡Aquí es donde todo comienza! 
 
-Capítulo 3: Origen històrico
-	el nombre
-disciplinas
-2 corrientes GOFAI
-el invierno de la IA, el resurgimiento y la burbuja
+En este módulo ponemos sobre la mesa las bases conceptuales y técnicas del campo de la IA.
 
-Capítulo 4: Conceptos técnicos fundamentales
-	Estadìstica y cadenas de markov https://www.youtube.com/watch?v=KZeIEiBrT_w 
-	Neurona (biologica y artificial)
-	Red neuronal
-Modelos
-	Entrenamiento https://teachablemachine.withgoogle.com/ 
-Conjuntos de entrenamiento
-	Tokens y ventanas de contexto
-	Vectores
-Embeddings
-Transformers
-IA Generativa
-NLP y LLMs
-GANs 
-Difusión
-Alucinaciones
-RAG - Fine tuning
-Guardrails
-Agentes MCP
+Comenzaremos definiendo el campo, rastreando los orígenes históricos y diferenciando los campos de estudio principales. Después desmenuzaremos los conceptos técnicos centrales: los fundamentos de la computación, del machine learning y la IA generativa hasta llegar al Procesamiento de Lenguaje Natural. Continuaremos con una introducción básica a las IAs generativas de texto e imagen. Finalizaremos revisando la estructura básica del stack de IA aplicada y recomendando algunas herramientas básicas.
 
-Capítulo 5: Aspectos materiales
-AI tech stack
-GPU/TPU
-¿Cuánto pesa un modelo?
-Quantizacion/optimización
+Al finalizar esta unidad, no solo comprenderás los fundamentos del funcionamiento de la IA, sino que también podrás identificar y diferenciar las variantes tecnológicas para diferentes aplicaciones. Serás capaz de explicar con suficiente precisión el funcionamiento de la IA, habilidad que precisas adquirir para adentrarte en los módulos posteriores.
 
+!!! warning "Aviso importante"
+	Este módulo abarca intencionadamente conceptos técnicos que pueden exceder un interés superfluo o instrumental. 
+	
+	Creemos que manejar estos conceptos es importante ya que consideramos inapropiado adentrarnos en su uso o en discusiones sociales y pedagógicas sin tener una noción cabal de qué es lo que tenemos entre manos.
 
-Capítulo 6: Recomendaciones
-	Plataformas y aplicaciones
-Cursos
+	Si esto fuera un curso de manejo, lo que proponemos es aprender también el funcionamiento del motor y los sistemas de dirección y freno. No te enseñaríamos a desarmar o construir un auto, pero entenderías qué es lo que sucede cuando algo anda mal.
 
+## Contenidos
 
+??? abstract "Capítulo 1: Definiendo el campo"
+	1. ¿Qué es la IA? ¿Por qué es especial?
+	2. Un mapa de la IA
+	3. Resolver problemas complejos con estadística
+	4. Los seis nudos de la conversación sobre IA
 
+??? abstract "Capítulo 2: Desarrollo histórico"
+	1. Breve historia del desarrollo
+	2. Estudios base, surgimiento del nombre
+	3. 2 corrientes: GOFAI simbólica / conectivista
+	4. Del Perceptrón a los Transformers
 
-> Comenzar
+??? abstract "Capítulo 3: Conceptos técnicos fundamentales"
+	1. Neurona
+	2. Algoritmos principales
+	3. Red neuronal
+	4. Modelos
+	5. Entrenamiento
+	6. Conjuntos de entrenamiento
+	7. Tokens y ventanas de contexto
+	8. Vectores
+	9. Embeddings
+	10. Transformers
+	11. IA Generativa
+	12. NLP y LLMs
+	13. GANs
+	14. Difusión
+	15. Alucinaciones
+	16. RAG - Fine tuning
+	17. Guardrails
+	18. Agentes MCP
+
+??? abstract "Capítulo 4: Infraestructura"
+	1. AI tech stack
+	2. Una imagen en microscopio de la IA 
+	3. GPU/TPU
+	4. ¿Cuánto pesa un modelo?
+	5. Quantizacion/optimización
+
+??? abstract "Capítulo 5: Recomendaciones"
+	1. Plataformas y aplicaciones
+	2. Otros cursos
+
+## Proyecto del módulo
+
+Más allá de las actividades puntuales que se plantean en distintas lecciones, te proponemos un ejercicio práctico para que desarrolles a lo largo de todo el módulo. Al finalizar el cursado tendrás un documento personalizado con ideas y herramientas útiles para tu trabajo cotidiano.
+
+!!! example "Proyecto del módulo"
+	
+	Así como los exploradores de la antiguedad trazaron mapas con los hitos y las coordenadas de los elementos destacados de los nuevos territorios, te proponemos construir tu propio mapa. No se trata de un cuaderno de apuntes o un resumen del módulo, se trata de una herramienta que te permita orientar tu camino. 
+	
+	Guía personal para una nueva era
+	
+	Crea un cuaderno

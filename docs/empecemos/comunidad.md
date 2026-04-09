@@ -1,5 +1,4 @@
-
-## Comunidad
+# Comunidad
 
 !!! tip "Todo aprendizaje es intercambio"
     La comunidad no es un complemento del curso sino un **espacio vital** para construir el aprendizaje. 
@@ -8,6 +7,6 @@ Hemos diseñado un espacio en Discord, una plataforma de comunicación gratuita 
 
 Esperamos que pueda ser usado para expresar tus dudas e inquietudes, responder las consultas que puedas, compartir tus ideas e impresiones y aportar lo que creas que pueda servirle a otros en el cursado. 
 
-[Acceder a la comunidad :material-forum-outline:](#){ .md-button }
+[Acceder a la comunidad :material-forum-outline:](https://discord.gg/sACbudzA){ .md-button }
 
 
