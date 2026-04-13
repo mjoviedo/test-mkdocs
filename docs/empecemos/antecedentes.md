@@ -53,6 +53,30 @@ No queremos cerrar la presentación sin reconocer todas las propuestas, cursos e
     - 2022 - 1ra Jornada en la UNC de Inteligencia Artificial. Presentaciones.
     - 2023 - Curso introductorio sobre inteligencia artificial. Aportes para repensar la Universidad. Nota 
 
+    **Facultad De Matemática, Astronomía, Física Y Computación**
+
+    - 2024 - Potenciando el bienestar psicológico con Inteligencia Artificial. Proyectos en Ingeniería de Diseño. Charla 
+    - 2024 - Herramientas para explorar sesgos y estereotipos de la inteligencia artificial en las aulas. Curso de extensión para docentes de secundaria.
+    - 2023 - IA: impacto, desafíos y riesgos. Entrevista.
+    - 2023 - Reflexiones sobre la Inteligencia Artificial. Entrevista. 
+    - 2022 - Estereotipos en inteligencia artificial. Proyecto de investigación.  
+    Córdoba
+    - 2024 - IA, Tecnología, Política y Vida Cotidiana | Augustín Berti. Nota televisiva.
+    - 2024 - La peligrosa idea de Turing: la computación ubicua como condición para lo político. - Conferencia Javier Blanco en Diplomatura de Ciencias de Datos - Rio IV. Conferencia.
+    - 2024 - VI Congreso Municipal de Educación. Charla en congreso.
+    - 2024 - Taller Inteligencia Artificial. Aportes para enseñar la escritura en la escuela en el marco del Programa tecno presente -
+
+
+    **Facultad De Ciencias Exactas, Físicas Y Naturales**
+
+    - 2018 - 2021 [Laboratorio de Investigación y Desarrollo de Software e Inteligencia Artificial (LIDeSIA) - Grupo de investigación Aprendizaje inteligente](https://aprendizajeinteligente.fcefyn.unc.edu.ar/)
+    - 2020 -  Un recorrido por el camino que une los datos con el conocimiento en la IA aplicada a ciberseguridad. Conferencia
+
+    **Facultad De Ciencias Médicas**
+
+    - 2023 - Inteligencia Artificial y Salud. Curso
+
+
     **Facultad De Ciencias Agropecuarias**
 
     - 2024 - Desafíos cognitivos y tecnopedagógicos para la docencia en la era de la inteligencia artificial. Curso posgrado.
@@ -66,13 +90,7 @@ No queremos cerrar la presentación sin reconocer todas las propuestas, cursos e
     - 2023 - Jornadas internacionales: Escrituras e inteligencia artificial generativa en contextos de formación y profesionales. Jornada
     - 2022 - 2023 Curso: Inteligencia artificial y comunicación social. Curso
 
-    **Facultad De Ciencias Exactas, Físicas Y Naturales**
-
-    - 2020 -  Un recorrido por el camino que une los datos con el conocimiento en la IA aplicada a ciberseguridad. Conferencia
-
-    **Facultad De Ciencias Médicas**
-
-    - 2023 - Inteligencia Artificial y Salud. Curso
+    
 
     **Facultad De Ciencias Químicas**
 
@@ -96,18 +114,7 @@ No queremos cerrar la presentación sin reconocer todas las propuestas, cursos e
 
     - 2023 - Abordaje de la Escritura de Ensayos Académicos en Entornos Virtuales, con Inclusión del Desarrollo de la Conciencia Léxica y un Enfoque Exploratorio en la Inteligencia Artificial. Proyecto de investigación.
 
-    **Facultad De Matemática, Astronomía, Física Y Computación**
 
-    - 2024 - Potenciando el bienestar psicológico con Inteligencia Artificial. Proyectos en Ingeniería de Diseño. Charla 
-    - 2024 - Herramientas para explorar sesgos y estereotipos de la inteligencia artificial en las aulas. Curso de extensión para docentes de secundaria.
-    - 2023 - IA: impacto, desafíos y riesgos. Entrevista.
-    - 2023 - Reflexiones sobre la Inteligencia Artificial. Entrevista. 
-    - 2022 - Estereotipos en inteligencia artificial. Proyecto de investigación.  
-    Córdoba
-    - 2024 - IA, Tecnología, Política y Vida Cotidiana | Augustín Berti. Nota televisiva.
-    - 2024 - La peligrosa idea de Turing: la computación ubicua como condición para lo político. - Conferencia Javier Blanco en Diplomatura de Ciencias de Datos - Rio IV. Conferencia.
-    - 2024 - VI Congreso Municipal de Educación. Charla en congreso.
-    - 2024 - Taller Inteligencia Artificial. Aportes para enseñar la escritura en la escuela en el marco del Programa tecno presente -
 
 ## Otros
 

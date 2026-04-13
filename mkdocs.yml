@@ -75,12 +75,10 @@ nav:
     - Contribuir: empecemos/contribuir.md
     - Antecedentes: empecemos/antecedentes.md
     - Créditos: empecemos/creditos.md
-  - M1 | Fundamentos:
+  - Módulo 1:
     - Presentación: modulo1/m1-intro.md
     - Cap 1 | Definiendo el campo:
       - 1. ¿Qué es la IA?: modulo1/capitulo1/m1c1l1.md
-    - Cap 2 | Desarrollo histórico:
-      - 1. Historia: modulo1/capitulo1/m1c1l1.md
   - Modulo 2:
     - Presentación: modulo2/m2-intro.md
   - Modulo 3:
@@ -93,6 +91,7 @@ plugins:
       repository: squidfunk/mkdocs-material
       branch: main
       enabled: !ENV [CI, false]
+  - mkdocs-video:
 
 extra:
   social:
