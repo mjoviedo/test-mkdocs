@@ -91,7 +91,6 @@ plugins:
       repository: squidfunk/mkdocs-material
       branch: main
       enabled: !ENV [CI, false]
-  - mkdocs-video:
 
 extra:
   social:
