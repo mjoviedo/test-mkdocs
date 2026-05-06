@@ -77,9 +77,25 @@ nav:
     - Créditos: empecemos/creditos.md
   - Módulo 1:
     - Presentación: modulo1/m1-intro.md
-    - Cap 1 | Definiendo el campo:
-      - 1. ¿Qué es la IA?: modulo1/capitulo1/m1c1l1.md
-      - 2. Un mapa de la IA: modulo1/capitulo1/m1c1l2.md
+    - Cap 1 | Nivelación:
+      - 1. La computadora: modulo1/capitulo1/m1c1l1.md
+      - 2. Información: modulo1/capitulo1/m1c1l2.md
+      - 3. Hardware: modulo1/capitulo1/m1c1l3.md
+      - 4. Software: modulo1/capitulo1/m1c1l4.md
+      - 5. Internet: modulo1/capitulo1/m1c1l5.md
+      - 6. Plataformas: modulo1/capitulo1/m1c1l6.md
+    - Cap 2 | Introducción a la IA:
+      - 1. Nuevo paradigma de la computación: modulo1/capitulo2/m1c2l1.md
+      - 2. Tipos de machine learning: modulo1/capitulo2/m1c2l2.md
+      - 3. Algoritmos principales: modulo1/capitulo2/m1c2l3.md
+      - 4. Introducción a las redes neuronales: modulo1/capitulo2/m1c2l1.md
+      - 2. Entrenamiento de redes neuronales: modulo1/capitulo2/m1c2l2.md
+      - 3. Sesgo y sobreajuste: modulo1/capitulo2/m1c2l3.md
+    - Cap 3 | Procesamiento de Lenguaje Natural:
+      - 1. Introducción al PLN: modulo1/capitulo2/m1c2l1.md
+      - 2. Embeddings: modulo1/capitulo2/m1c2l2.md
+      - 3. LLMs: modulo1/capitulo2/m1c2l3.md
+
   - Modulo 2:
     - Presentación: modulo2/m2-intro.md
   - Modulo 3:
