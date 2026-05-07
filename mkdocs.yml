@@ -18,7 +18,6 @@ theme:
     - navigation.tabs.sticky
 #    - navigation.sections
     - content.action.edit
-    - navigation.expand
     
   palette:
     # Dark Mode
@@ -61,6 +60,7 @@ markdown_extensions:
       alternate_style: true
   - admonition
   - pymdownx.details
+  - tables
   - toc:
       permalink: true
       title: 
@@ -84,6 +84,7 @@ nav:
       - 4. Software: modulo1/capitulo1/m1c1l4.md
       - 5. Internet: modulo1/capitulo1/m1c1l5.md
       - 6. Plataformas: modulo1/capitulo1/m1c1l6.md
+      - 7. Datos: modulo1/capitulo1/m1c1l7.md
     - Cap 2 | Introducción a la IA:
       - 1. Nuevo paradigma de la computación: modulo1/capitulo2/m1c2l1.md
       - 2. Tipos de machine learning: modulo1/capitulo2/m1c2l2.md
