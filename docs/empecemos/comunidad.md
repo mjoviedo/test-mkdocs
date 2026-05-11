@@ -7,6 +7,6 @@ Hemos diseñado un espacio en Discord, una plataforma de comunicación gratuita 
 
 Esperamos que pueda ser usado para expresar tus dudas e inquietudes, responder las consultas que puedas, compartir tus ideas e impresiones y aportar lo que creas que pueda servirle a otros en el cursado. 
 
-[Acceder a la comunidad :material-forum-outline:](https://discord.gg/sACbudzA){ .md-button }
+[Acceder a la comunidad :material-forum-outline:](https://discord.com/channels/1475561062299340822){ .md-button }
 
 

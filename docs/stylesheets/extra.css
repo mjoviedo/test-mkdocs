@@ -4,42 +4,31 @@
 }
 
 
-/* --- Parallax Hero Section --- */
+/* --- Sección Parallax Hero --- */
 .hero-parallax {
-  /* 1. Full Width & Position */
   width: 100%;
-  margin-top: 0; /* Forces no margin top */
+  margin-top: 0;
   padding-top: 0px;
   position: relative;
-  
-  /* 2. Background Image Settings */
-  background-image: url('../assets/transformer2.png'); /* Adjust path if needed */
+  background-image: url('../assets/neural-network-diagram-schmitt.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  
-  /* 3. The Parallax Effect */
   background-attachment: fixed;
-
-  /* 4. Height and Centering Content */
-  min-height: 90vh; /* Takes up 80% of the viewport height */
+  min-height: 90vh;
   display: flex;
-  align-items: center; /* Vertical Center */
-  justify-content: center; /* Horizontal Center */
-  
-  /* 5. Overlay (Darkens image for text readability)  */
+  align-items: center;
+  justify-content: center;
   background-blend-mode: darken;
-  background-color: rgba(2, 48, 42, 0.95); /* 50% black overlay */
-  
-  /* 6. Fix for older Material versions top spacing */
+  background-color: rgba(2, 48, 42, 0.95); /* overlay */
   z-index: 0;
 }
 
-/* Ensure content inside the hero is readable */
+
 .hero-content {
   text-align: center;
   padding: 40px;
-  color: white !important; /* Force white text over the background image */
+  color: white !important; 
   max-width: 800px;
   z-index: 2;
 }
@@ -48,8 +37,8 @@
   font-size: 2.7rem;
   font-weight: 800;
   margin-bottom: 10px;
-  color: white !important; /* Ensure title is white */
-  border: none; /* Removes Material's default h1 underline */
+  color: white !important; 
+  border: none; 
 }
 
 .hero-subtitle {
@@ -59,7 +48,7 @@
   line-height: 1.6;
 }
 
-/* --- Keep the Buttons (updated colors) --- */
+
 .hero-actions {
   display: flex;
   gap: 15px;
@@ -84,19 +73,18 @@
 
 .btn-primary {
   background-color: var(--md-primary-fg-color);
-  color: white !important; /* Match primary button text */
+  color: white !important; 
   transition: all 0.3s ease;
 }
 
 .btn-secondary {
   border: 2px solid white;
-  color: white !important; /* Match secondary button text */
+  color: white !important; 
 }
 
 
 
-/* Fix for Material's layout: ensure the container doesn't add 
-   unwanted padding at the top of the hero block */
+/* Fix para el layout del theme Material: asegura que el container no agregue padding arriba del bloque hero */
 .md-content {
   margin-top: 0 !important;
 }
@@ -105,7 +93,6 @@
   margin-top: 0 !important;
 }
 
-/* General Landing Layout */
 .landing-section {
   padding: 60px 0;
   max-width: 1000px;
@@ -124,7 +111,6 @@
   margin-bottom: 10px;
 }
 
-/* Feature Grid (3 Columns) */
 .feature-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -152,7 +138,6 @@
 
 /* --- Full Width Parallax Section --- */
 .full-width-parallax {
-  /* 1. Force Full Width Breakout */
   width: 100vw;
   position: relative;
   left: 50%;
@@ -161,7 +146,7 @@
   margin-right: -50vw;
 
   /* 2. Parallax Background */
-  background-image: url('../assets/transformer.png'); /* Use same image or a new one */
+  background-image: url('../assets/ai-is-everywhere_yutong-liu_the-bigger-picture.jpg'); /* Use same image or a new one */
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
