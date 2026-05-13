@@ -57,6 +57,7 @@ Cada **Módulo** se compone de ***Capítulos*** y estos, de ***Lecciones***. De 
 
 - En determinados momentos del curso se propone la realización de PROYECTOS, que consiste en trabajos personales por fuera de la plataforma de estudio. Estas instancias son sumamente relevantes para el éxito del curso.
 
+
 !!! tip "Importante"
     A continuación compartimos [Recomendaciones para el cursado](recomendaciones.md).  
 
