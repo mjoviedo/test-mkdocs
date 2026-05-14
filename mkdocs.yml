@@ -116,6 +116,7 @@ plugins:
       repository: squidfunk/mkdocs-material
       branch: main
       enabled: !ENV [CI, false]
+  - markmap:
 
 extra:
   social:
@@ -137,5 +138,5 @@ extra:
       link: https://www.facebook.com/EcoUNC/
   
 
-copyright: FyPE - Facultad de Ciencias Económicas - Universidad Nacional de Córdoba
+copyright: Producido por FyPE - Facultad de Ciencias Económicas - Universidad Nacional de Córdoba
 
