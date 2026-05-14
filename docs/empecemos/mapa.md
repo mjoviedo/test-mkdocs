@@ -1,3 +1,5 @@
+```markmap
+
 ---
 title: Curriculo IA ES
 markmap:
@@ -228,5 +230,4 @@ Cómo funciona la computadora moderna
 #### Estudios de caso
 
 
-
-Validacion por contenido y por experiencia
+```
