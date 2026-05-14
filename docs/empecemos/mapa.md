@@ -31,7 +31,8 @@ Cómo funciona la computadora moderna
 
 #### Software
 
-- Niveles de abstracción, lenguajes de programación, algoritmos, programas, interfaces, repositorios de código, licencias 
+- Niveles de abstracción, lenguajes de programación, 
+algoritmos, programas, interfaces, repositorios de código, licencias 
 
 #### Internet
 
