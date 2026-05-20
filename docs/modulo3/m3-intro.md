@@ -1,9 +1,20 @@
-# Módulo 3: Las implicancias en la dimensión pedagógica
+# Módulo 3. Instrumental
 
-- [Este TFG lo ha hecho la IA](https://www.viernesenkiribati.com/p/este-tfg-lo-ha-hecho-la-ia) Tiene mucho para pensar, la idea de fricción, los trabajos sintéticos, los viejos problemas resignificados por la IA (la trampa), la nueva naturaleza del trabajo del estudiante.. buenísimo. 
+### **Objetivo:**
+- Desarrollar competencias prácticas transversales para el uso de diferentes herramientas de IA. Dado que la actualización de herramientas y propuestas comerciales es constante, este módulo busca que el cursante adquiera herramientas y técnicas que se puedan trasladar de un sistema a otro. La experiencia práctica de este módulo permitirá reflexionar sobre lo trabajado en los módulos anteriores y llegar a la discusión del campo de la Educación Superior con una comprensión conceptual, teórica y práctica.
 
-- [Seis bucles](https://zoescaman.substack.com/p/the-six-loops) ¿A dónde podemos llegar si salimos de los lugares comunes?
-
-- [¿Puede la IA Generar NUEVO CONOCIMIENTO CIENTÍFICO?](https://www.youtube.com/watch?v=GOhMh__Z4xI)
-
-- [¿Cómo la IA va a cambiar la educación?](https://www.youtube.com/watch?v=0xS68sl2D70&) (comparte diagnóstico con diapositivas de Martin Eschoyez de PAMEG artes ¿Cómo x cosa va a revolucionar la educación? -nunca pasa-) Hay dos sistemas de pensamiento: el rápido y el lento, la educación sucede en el segundo sistema
+#### Plataformas disponibles
+#### Mapeo de usos y herramientas
+#### Ingeniería de prompts
+#### Control de contexto: adjuntos, RAG, finetuning
+#### Entornos de ejecución online: Hugginface, cuadernos Jypyter
+#### Entornos de ejecución local: Ollama #### LM Studio
+#### Editores de código
+#### Modelos libres
+#### Generación de imágenes
+#### Generación de voz
+#### Generaciókn de música
+#### Programación en lenguaje natural
+#### Detección de sesgos EDIA
+#### Detección de contenido generado con IA
+#### Estudios de caso

@@ -34,8 +34,11 @@ Hemos diseñado un currículo de cuatro módulos, cada uno abarcando una dimensi
 
 1. **Módulo Fundamentos**: Qué son y cómo funcionan las tecnologías llamadas IA. IA generativa, LLMs. Alcances y limitaciones
 2. **Módulo Sociotécnico**: Cuáles son las discusiones más relevantes alrededor de su uso en el mundo real. Impactos en el trabajo, la economía, la cultura y la política.
-3. **Módulo Pedagógico**: Cuáles son las discusiones clave en el entorno de la educación. Criterios y recomendaciones para su integración (o no) en distintos ámbitos de la Universidad.
-4. **Módulo Instrumental**: Competencias prácticas transversales (agnósticas de marcas y aplicaciones) para el uso de  herramientas de IA.
+
+3. **Módulo Instrumental**: Competencias prácticas transversales (agnósticas de marcas y aplicaciones) para el uso de  herramientas de IA.
+
+4. **Módulo Pedagógico**: Documentación de casos reales. Usos según roles. Discusiones clave en el entorno de la educación. Criterios y recomendaciones para su integración (o no) en distintos ámbitos de la Universidad.
+
 
 
 Cada **Módulo** se compone de ***Capítulos*** y estos, de ***Lecciones***. De esta forma:

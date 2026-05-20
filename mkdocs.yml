@@ -76,16 +76,17 @@ nav:
     - Antecedentes: empecemos/antecedentes.md
     - Créditos: empecemos/creditos.md
   - Módulo 1:
-    - Presentación: modulo1/m1-intro.md
-    - Cap 1 | Nivelación:
-      - 1. La computadora: modulo1/capitulo1/m1c1l1.md
+    - Presentación del módulo: modulo1/m1-intro.md
+    - Cap 1 | Computación y redes:
+      - 1. La computadora moderna: modulo1/capitulo1/m1c1l1.md
       - 2. Información: modulo1/capitulo1/m1c1l2.md
       - 3. Hardware: modulo1/capitulo1/m1c1l3.md
       - 4. Software: modulo1/capitulo1/m1c1l4.md
       - 5. Internet: modulo1/capitulo1/m1c1l5.md
       - 6. Plataformas: modulo1/capitulo1/m1c1l6.md
       - 7. Datos: modulo1/capitulo1/m1c1l7.md
-    - Cap 2 | Introducción a la IA:
+
+    - Cap 2 | Inteligencia Artificial:
       - 1. Nuevo paradigma de la computación: modulo1/capitulo2/m1c2l1.md
       - 2. Principales enfoques: modulo1/capitulo2/m1c2l2.md
       - 3. Introducción a modelos de ML: modulo1/capitulo2/m1c2l3.md
@@ -94,20 +95,23 @@ nav:
       - 7. Jugando con redes: modulo1/capitulo2/m1c2l6.md
       - 8. Sesgo y sobreajuste: modulo1/capitulo2/m1c2l7.md
 
-    - Cap 3 | Procesamiento de Lenguaje Natural:
+    - Cap 3 | IA Generativa:
       - 1. Introducción al PLN: modulo1/capitulo3/m1c3l1.md
       - 2. Embeddings: modulo1/capitulo3/m1c3l2.md
       - 3. Modelos de lenguaje: modulo1/capitulo3/m1c3l3.md
 
     - Cap 4 | Infraestructura:
-      - 1. Introducción al PLN: modulo1/capitulo3/m1c3l1.md
-      - 2. Embeddings: modulo1/capitulo3/m1c3l2.md
-      - 3. Modelos de lenguaje: modulo1/capitulo3/m1c3l3.md
+      - 1. El "stack": modulo1/capitulo3/m1c3l1.md
+      - 2. MCPs: modulo1/capitulo3/m1c3l2.md
+      - 3. APIs: modulo1/capitulo3/m1c3l3.md
 
   - Modulo 2:
     - Presentación: modulo2/m2-intro.md
   - Modulo 3:
     - Presentación: modulo3/m3-intro.md
+  - Modulo 4:
+    - Presentación: modulo4/m4-intro.md
+  
 
 plugins:
   - search:

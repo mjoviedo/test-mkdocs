@@ -1,5 +1,3 @@
-# Módulo 1: Presentación
-
 !!! info "Descripción general"
 	Presentamos los objetivos de aprendizaje, la estructura de contenidos, el proyecto a desarrollar y sugerimos algunas herramientas para que saques todo el provecho del cursado.
 
@@ -21,44 +19,43 @@ Al finalizar esta unidad, no solo comprenderás los fundamentos del funcionamien
 
 ## Contenidos
 
-??? abstract "Capítulo 1: Definiendo el campo"
-	1. ¿Qué es la IA? ¿Por qué es especial?
-	2. Un mapa de la IA
-	3. Resolver problemas complejos con estadística
-	4. Los seis nudos de la conversación sobre IA
+??? abstract "Capítulo 1: Computación y redes"
+	1. La computadora moderna
+	2. Información en bits
+	3. Estructura básica del hardware
+	4. Software
+	5. Datos
+	6. Internet
+	7. Plataformas
 
-??? abstract "Capítulo 2: Desarrollo histórico"
-	1. Breve historia del desarrollo
-	2. Estudios base, surgimiento del nombre
-	3. 2 corrientes: GOFAI simbólica / conectivista
-	4. Del Perceptrón a los Transformers
+??? abstract "Capítulo 2: Inteligencia Artificial"
+	1. Mapa del campo
+	2. Principales enfoques
+	3. Machine Learning
+	4. Neuronas
+	5. Redes neuronales
+	6. Sesgo y sobreajuste
 
-??? abstract "Capítulo 3: Conceptos técnicos fundamentales"
-	1. Neurona
-	2. Algoritmos principales
-	3. Red neuronal
-	4. Modelos
-	5. Entrenamiento
-	6. Conjuntos de entrenamiento
-	7. Tokens y ventanas de contexto
-	8. Vectores
-	9. Embeddings
-	10. Transformers
-	11. IA Generativa
-	12. NLP y LLMs
-	13. GANs
-	14. Difusión
-	15. Alucinaciones
-	16. RAG - Fine tuning
-	17. Guardrails
-	18. Agentes MCP
+??? abstract "Capítulo 3: IA generativa"
+	1. AI predictiva vs generativa
+	2. Transformers
+	3. Redes neuronales convolucionales
+	4. Generación de imágenes
+	5. ¿Qué es PLN?
+	6. Introducción a los modelos de lenguaje
+	7. ¿Cómo funcionan los modelos de lenguaje?
+	8. ¿Qué son y cómo funcionan los embeddings?
+	9. Bases de datos de vectores
+	10 RAG y Finetuning
+	11. Razonamiento
+	12. IA Generativa vs Agéntica
 
 ??? abstract "Capítulo 4: Infraestructura"
-	1. AI tech stack
-	2. Una imagen en microscopio de la IA 
+	1. El stack de la IA
+	2. LLMs y SLMs Quantizacion, optimización
 	3. GPU/TPU
-	4. ¿Cuánto pesa un modelo?
-	5. Quantizacion/optimización
+	4. APIs
+	5. MCP
 
 ??? abstract "Capítulo 5: Recomendaciones"
 	1. Plataformas y aplicaciones
