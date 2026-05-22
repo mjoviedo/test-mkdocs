@@ -1,16 +1,11 @@
 !!! success ""
     El curso *IA en Educación Superior* se propone como un espacio de formación abierta, permanente y colaborativa enfocada en el **uso e impacto de la IA en la educación superior argentina**. 
 
-## Fundamentación
+## 
 
-El proyecto se gesta en el [Área de Formación Docente y Producción Educativa de la Facultad de Ciencias Económicas UNC](https://www.eco.unc.edu.ar/fype/) donde, a partir de numerosas consultas de docentes por la irrupción de herramientas de IA generativa en las aulas, se comienzan a trabajar propuestas de formación y lineamientos pedagógicos.
+> La cultura tecnológica es la antítesis de la sociedad de consumo, de la sociedad de lo descartable, en la que la mayoría de los objetos son cajas negras en las que se sabe solamente para qué sirven pero nada más, la cultura tecnológica implica el conocimiento de los aspectos conceptuales de su funcionamiento 
 
-Si bien la FCE, UNC y diferentes instituciones ya cuentan con vastos [antecedentes de formación](antecedentes.md), el carácter puntual de las mismas, su dinámica predominantemente sincrónica y la dispersión de sus registros limitan su llegada.
-
-Esta propuesta busca dar respuesta a dos asuntos: 
-
-1. la dificultad de **acceso** a recursos y materiales de estudio sistematizados, y
-2. la necesidad de un espacio permanente de **intercambio y discusión**.
+> \- Aquiles Gay, 2010
 
 ---
 
@@ -39,6 +34,7 @@ Hemos diseñado un currículo de cuatro módulos, cada uno abarcando una dimensi
 
 4. **Módulo Pedagógico**: Documentación de casos reales. Usos según roles. Discusiones clave en el entorno de la educación. Criterios y recomendaciones para su integración (o no) en distintos ámbitos de la Universidad.
 
+[Mapa de contenidos](../empecemos/mapa.md){ .md-button }
 
 
 Cada **Módulo** se compone de ***Capítulos*** y estos, de ***Lecciones***. De esta forma:
@@ -60,6 +56,21 @@ Cada **Módulo** se compone de ***Capítulos*** y estos, de ***Lecciones***. De 
 
 - En determinados momentos del curso se propone la realización de PROYECTOS, que consiste en trabajos personales por fuera de la plataforma de estudio. Estas instancias son sumamente relevantes para el éxito del curso.
 
+---
+
+## Origen
+
+El proyecto se gesta en el [Área de Formación Docente y Producción Educativa de la Facultad de Ciencias Económicas UNC](https://www.eco.unc.edu.ar/fype/) donde, a partir de numerosas consultas de docentes por la irrupción de herramientas de IA generativa en las aulas, se comienzan a trabajar propuestas de formación y lineamientos pedagógicos.
+
+Si bien la FCE, UNC y diferentes instituciones ya cuentan con vastos [antecedentes de formación](antecedentes.md), el carácter puntual de las mismas, su dinámica predominantemente sincrónica y la dispersión de sus registros limitan su llegada.
+
+Esta propuesta busca dar respuesta a dos asuntos: 
+
+1. la dificultad de **acceso** a recursos y materiales de estudio sistematizados, y
+2. la necesidad de un espacio permanente de **intercambio y discusión**.
+
+
+---
 
 !!! tip "Importante"
     A continuación compartimos [Recomendaciones para el cursado](recomendaciones.md).  

@@ -138,86 +138,103 @@ markmap:
 ### Capítulo 2.1 Conocimiento
 
 #### El concepto de inteligencia y sus críticas
-
-#### El concepto de *affordance* y andamiaje 
+- Noción de inteligencia, supuestos, la inteligencia como construcción sociotècnica, mitos máquina=mente.
 
 #### Estadística y modelos
-
+- Cómo operan concretamente los sistemas de IA y qué tipo de conocimiento producen.
 #### Cognición computarizada: el *nooscopio*
-
-#### ¿Pueda la IA generar nuevo conocimiento científico?
-
+- Cómo las tecnologías de inteligencia artificial reorganizan la noción misma de cognición al desplazarla hacia formas computarizadas de percepción, clasificación y modelización estadística. 
 #### Delegación de funciones
-
-
+- Examina el impacto político y subjetivo de automatizar decisiones, lo que puede reducir la autonomía humana y el aprendizaje en el trabajo 
 
 ### Capítulo 2.2 Materia
 
 #### Minerales, hardware y energía
+- Visibiliza la base física de la IA, centrada en el extractivismo de minerales y el consumo masivo de energía 
 
 #### Software, Datos y redes
+- Aborda la vectorización de la realidad y cómo los datasets son construcciones culturales que reflejan relaciones de poder
 
 #### Almacenamiento, circulación y propiedad
+- Describe la transformación de los datos en capital mediante una ideología extractivista que convierte a las personas en "sujetos de datos"
 
 #### Costos ambientales
+- Detalla la huella de carbono y el impacto ecológico de la logística global y el entrenamiento de grandes modelos de lenguaje
 
 #### Ciclo de vida
+- Propone entender la IA como un proceso que va desde la extracción de recursos hasta la generación de residuos electrónicos
 
 
 
 ### Capítulo 2.3 Trabajo
 
 #### Trabajo y cambio tecnológico
+- Efectos de la automatización en el empleo, la desigualdad entre regiones y la precarización laboral
 
-#### Automatización
+#### Automatización. El telar y los Ludditas
+- Recupera la historia de la resistencia obrera para discutir la soberanía tecnológica y el control sobre la innovación
 
 #### Trabajo oculto
+- Describe la mano de obra invisible que sostiene la apariencia de autonomía de los sistemas de IA
 
 #### Cognitariado
+- Analiza la captura de talento altamente calificado y la pérdida de autonomía del conocimiento académico frente a las grandes corporaciones tecnológicas
 
 #### Modelos de negocio de la IA
+- Concentración de poder de las grandes corporaciones que monetizan el conocimiento colectivo y los datos de usuarios mediante un régimen de extractivismo cognitivo y opacidad
 
 #### Diseño de sistemas sociotécnicos. ¿Reemplazo, potenciación y qué más?
-
+- Diseño de tecnologías para el reemplazo del trabajador o su potencialidad de las capacidades humanas, promoviendo una automatización que humanice el trabajo y garantice la soberanía tecnológica 
 
 
 ### Capítulo 2.4. Cultura
 
-#### Tecnodiversidad
+#### Máquinas culturales
+- Aborda la IA como productora de sentido y clasificaciones que pueden ejercer violencia epistémica sobre comunidades vulnerables
 
-#### Autoría y propiedad intelectual
+#### Creación y copyright
+- Cuestiona la "creatividad" algorítmica, señalando su dependencia de la extracción de obras humanas y la crisis de la autoría
 
 #### La metáfora del espejo
+- Discute la posverdad y cómo los sistemas digitales pueden amplificar sesgos cognitivos y ser usados como instrumentos de poder
 
 #### Problemas emergentes. Psicosis inducida por IA
+- Explora los riesgos para la salud mental, la desorientación subjetiva y la necesidad de una alfabetización crítica y bienestar digital
 
 #### Slop
+- Analiza la saturación de contenidos basura generados por IA, que degrada el ecosistema informativo y la atención humana
 
 #### Imaginarios futuros. Marte y las tecnologías entrañables
-
+- Propone un decálogo para diseñar tecnologías no alienantes, basadas en la apertura, el control humano y la sostenibilidad
 
 
 ### Capítulo 2.5 Ética
 
 #### Privacidad, dividualidad y perfilado
+- Analiza la reducción de personas a "sujetos de datos" mediante perfiles que fragmentan la identidad para predecir comportamientos
 
 #### Capitalismo de vigilancia
+- Describe el uso de datos para crear mercados de predicción que buscan monetizar y moldear la conducta humana
 
 #### Democracia, Infocracia, Hipnocracia
+- Examina cómo el perfilamiento y la economía de la atención manipulan la opinión pública y los procesos democráticos 
 
 #### Poder y estado
+- Aborda la transición a una gubernamentalidad algorítmica donde el control social pasa de instituciones públicas a algoritmos corporativos opacos
 
 
 
 ### Capítulo 2.6 Política
 
-#### La metáfora del castillo
-
 #### Nuevos conflictos geopolíticos
+- Analiza la disputa por el control de las infraestructuras y los recursos estratégicos, donde las corporaciones tecnológicas operan como actores políticos que reconfiguran las relaciones de poder a escala global
 
 #### Gobernanza y marcos regulatorios
+- Recupera una regulación proactiva que gestione los riesgos sistémicos durante todo el ciclo de vida de la IA
 
-#### Mirada desde Latam. Desarrollo y dependencia tecnológica
+#### Una mirada desde Latam. Teoría de la dependencia tecnológica
+- Aborda cómo las potencias globales capturan la renta del conocimiento producido en la periferia, profundizando la dependencia tecnológica
+
 
 
 
@@ -245,23 +262,30 @@ markmap:
 
 ## Módulo 4. Pedagógico
 
-#### **Objetivo:**
+### **Objetivo:**
 - Explorar los usos actuales de la IA en los diferentes roles y claustros del sistema de Educación Superior. Detectar problemas, oportunidades, amenazas y brindar herramientas conceptuales para pensar, utilizar, diseñar y regular los sistemas de IA al interior de la Educación Superior.
 
-#### Usos documentados en UNC
-#### Usos en la enseñanza
-#### Roles pedagógicos para IA generativa
-#### Usos en el aprendizaje
-#### Percepción estudiantil de la IA
-#### Herramientas utilizadas por estudiantes
-#### Efectos documentados
-#### El problema de la evaluación
-#### Instituciones y plataformas
-#### Protección de datos personales
-#### Propiedad intelectual y materiales de estudio
-#### Usos en la administración y no docencia
+### La IA en la vida universitaria 
+#### Usos documentados de IA en la UNC 
+#### Instituciones, plataformas y entornos digitales 
+#### Usos administrativos y no docentes 
+#### Marcos legales  
 #### Lineamientos institucionales
-#### Marcos legales
+
+### Enseñanza, aprendizaje y subjetividades 
+#### Usos en la enseñanza y nuevos roles pedagógicos 
+#### Usos en el aprendizaje y herramientas estudiantiles 
+#### Percepción estudiantil y efectos documentados 
+
+### Evaluación, conocimiento y producción académica 
+#### El problema de la evaluación 
+#### Propiedad intelectual y materiales de estudio 
+
+### Regulación, derechos y políticas institucionales 
+#### Protección de datos personales y privacidad 
+#### Marcos legales y desafíos regulatorios 
+#### Lineamientos institucionales para el uso de IA 
+
 
 
 ```
