@@ -31,19 +31,32 @@
 
 #### Ciclo de vida
 
+- Anatomy of AI https://anatomyof.ai/ Kate Crawford y Vladan Joler. El caso de Amazon Echo como mapa anatómico del trabajo humano, datos y recursos planetarios
 
 
 ### Capítulo 2.3 Trabajo
 
 #### Trabajo y cambio tecnológico
 
+https://informaticos.ar/litat-soberania-digital-en-argentina/
+
+
 #### Automatización
 
 #### Trabajo oculto
 
+Lecturas:
+- Turco mecánico
+- Milagros Miceli. Presentación UNLP Autoridad epistémica en la IA https://www.youtube.com/live/vHp9fXZJ74I&t=1387 - Data Workers Inquiry https://data-workers.org/oskarina/
+¿Cuáles son los 4 tipos de roles que desarrollan los trabajadores de datos de la IA?
+
+
 #### Cognitariado
 
 #### Modelos de negocio de la IA
+
+- Institución tipo observatorio. Investiga la trayectoria de la IA para beneficio de la sociedad. https://epoch.ai/
+- ¿Ya es redituable la IA? Seguimiento del estado financiero de las grandes empresas de IA https://isaiprofitable.com/
 
 #### Diseño de sistemas sociotécnicos. ¿Reemplazo, potenciación y qué más?
 
@@ -84,5 +97,9 @@
 #### Nuevos conflictos geopolíticos
 
 #### Gobernanza y marcos regulatorios
+
+- Auditoría independiente de sistemas de IA https://www.eticas.ai/
+- Forénsica de la IA https://aiforensics.org/
+
 
 #### Mirada desde Latam. Desarrollo y dependencia tecnológica

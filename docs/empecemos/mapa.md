@@ -246,16 +246,17 @@ markmap:
 #### Plataformas disponibles
 #### Mapeo de usos y herramientas
 #### Ingeniería de prompts
-#### Control de contexto: adjuntos, RAG, finetuning
-#### Entornos de ejecución online: Hugginface, cuadernos Jypyter
-#### Entornos de ejecución local: Ollama #### LM Studio
-#### Editores de código
-#### Modelos libres
-#### Generación de imágenes
+#### Control de contexto: adjuntos, RAG, finetuning, Karpathy LLM-wiki
+#### Entornos de ejecución online: Duck.ai, Hugginface, cuadernos Jypyter
+#### Entornos de ejecución local: Ollama, LM Studio, Hermes
+#### Editores de código: VS code, 
+#### Modelos libres: Gemma, Llama, Mistral
+#### Generación de imágenes: 
 #### Generación de voz
 #### Generaciókn de música
 #### Programación en lenguaje natural
-#### Detección de sesgos EDIA
+#### Detección de texto: herramientas y problemas
+#### Detección de sesgos: EDIA
 #### Detección de contenido generado con IA
 #### Estudios de caso
 
@@ -269,8 +270,6 @@ markmap:
 #### Usos documentados de IA en la UNC 
 #### Instituciones, plataformas y entornos digitales 
 #### Usos administrativos y no docentes 
-#### Marcos legales  
-#### Lineamientos institucionales
 
 ### Enseñanza, aprendizaje y subjetividades 
 #### Usos en la enseñanza y nuevos roles pedagógicos 

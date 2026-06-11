@@ -25,3 +25,7 @@
 - [¿Puede la IA Generar NUEVO CONOCIMIENTO CIENTÍFICO?](https://www.youtube.com/watch?v=GOhMh__Z4xI)
 
 - [¿Cómo la IA va a cambiar la educación?](https://www.youtube.com/watch?v=0xS68sl2D70&) (comparte diagnóstico con diapositivas de Martin Eschoyez de PAMEG artes ¿Cómo x cosa va a revolucionar la educación? -nunca pasa-) Hay dos sistemas de pensamiento: el rápido y el lento, la educación sucede en el segundo sistema
+
+- [REA IA en educación](https://descargas.intef.es/cedec/proyectoedia/guias/contenidos/inteligencia_artificial/index.html)
+
+- 

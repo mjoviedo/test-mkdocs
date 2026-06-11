@@ -8,13 +8,17 @@
 #### Ingeniería de prompts
 #### Control de contexto: adjuntos, RAG, finetuning
 #### Entornos de ejecución online: Hugginface, cuadernos Jypyter
-#### Entornos de ejecución local: Ollama #### LM Studio
+#### Entornos de ejecución local: Ollama, LM Studio
 #### Editores de código
 #### Modelos libres
 #### Generación de imágenes
 #### Generación de voz
-#### Generaciókn de música
+#### Generación de música
 #### Programación en lenguaje natural
 #### Detección de sesgos EDIA
 #### Detección de contenido generado con IA
 #### Estudios de caso
+
+
+- [Vibe coding educativo](https://vibe-coding-educativo.github.io/)
+- [Vibe coding educativo](https://labia.tiddlyhost.com/#Vibe%20Coding%20Educativo:%5B%5BVibe%20Coding%20Educativo%5D%5D/)
