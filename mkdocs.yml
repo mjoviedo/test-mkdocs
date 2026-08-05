@@ -107,6 +107,28 @@ nav:
 
   - Modulo 2:
     - Presentación: modulo2/m2-intro.md
+    - Cap 1 | Conocimiento:
+      - 1. El concepto de inteligencia y sus críticas: modulo2/capitulo1/m2c1l1.md
+      - 2. Estadística y modelos : modulo2/capitulo1/m2c1l2.md
+      - 3. Cognición computarizada: modulo2/capitulo1/m2c1l3.md
+      - 4. Delegación de funciones: modulo2/capitulo1/m2c1l4.md
+
+    - Cap 2 | Materia:
+      - 1. Minerales, hardware y energía: modulo2/capitulo2/m2c2l1.md
+      - 2. Software, Datos y Redes: modulo2/capitulo2/m2c2l2.md
+      - 3. Almacenamiento, circulación y propiedad: modulo2/capitulo2/m2c2l3.md
+      - 4. Costos ambientales: modulo2/capitulo2/m2c2l4.md
+      - 5. Ciclo de vida: modulo2/capitulo2/m2c2l5.md
+
+    - Cap 3 | Trabajo:
+      - 1. Trabajo y cambio tecnológico: modulo2/capitulo3/m2c3l1.md
+      - 2. Automatización: modulo2/capitulo3/m2c3l2.md
+      - 3. Trabajo oculto. Fauxtomatización: modulo2/capitulo3/m2c3l3.md
+      - 4. Cognitariado: modulo2/capitulo3/m2c3l4.md
+      - 5. Diseño de sistemas sociotécnicos: modulo2/capitulo3/m2c3l5.md
+
+
+    
   - Modulo 3:
     - Presentación: modulo3/m3-intro.md
   - Modulo 4:

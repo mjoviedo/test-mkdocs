@@ -1,64 +1,65 @@
-# Módulo 2. Sociotécnico
-
-### **Objetivo:**
-- Promover la comprensión de las discusiones más relevantes alrededor del uso de IA en el mundo real. El módulo propone profundizar la discusión sobre IA a partir de una amplia variedad de dimensiones: epistemológica, material, laboral, cultural, ética y política. Al finalizar el módulo, el cursante será capaz de pensar críticamente las tecnologías de IA desde diversos puntos de vista, habilitando pensar en profundiad su uso en un contexto educativo.
-
-### Capítulo 1 Conocimiento
-
-#### El concepto de inteligencia y sus críticas
-
-#### El concepto de *affordance* y andamiaje 
-
-#### Estadística y modelos
-
-#### Cognición computarizada: el *nooscopio*
-
-#### ¿Pueda la IA generar nuevo conocimiento científico?
-
-#### Delegación de funciones
+!!! info "Descripción general"
+	En este módulo hacemos un paneo por las discusiones más relevantes alrededor del uso de IA en el mundo real. 
 
 
+## ¿Qué está pasando a nivel sociotécnico alrededor de la IA?
 
-### Capítulo 2 Materia
+El módulo propone herramientas téoricas para tener un panorama amplio de las discusiones en relación a la IA. ¿Cuáles son las principales discusiones en el plano epistemológico, material, laboral, cultural, ético y político?
 
-#### Minerales, hardware y energía
+Al finalizar el módulo, serás capaz de reconocer las discusiones claves en relación a la IA y de pensar críticamente el uso de estas tecnologías desde diversos puntos de vista. 
 
-#### Software, Datos y redes
+!!! warning "Aviso importante"
+	Este módulo abarca intencionadamente conceptos teóricos que pueden exceder un interés superfluo o instrumental.
+	
+	Creemos que manejar estos conceptos es importante ya que su uso instrumental sin una noción orientadora puede ser peligroso.
 
-#### Almacenamiento, circulación y propiedad
+	Como decíamos en el módulo 1: si esto fuera un curso de manejo, lo que propusimos en el módulo anterior fue entender el auto y su mecánica, ahora te proponemos explorar los mapas de la ciudad y la provincia para que te puedas orientar mejor.
 
-#### Costos ambientales
+## Contenidos
 
-#### Ciclo de vida
+??? abstract "Capítulo 1: Conocimiento"
 
-- Anatomy of AI https://anatomyof.ai/ Kate Crawford y Vladan Joler. El caso de Amazon Echo como mapa anatómico del trabajo humano, datos y recursos planetarios
+    1. El concepto de inteligencia y sus críticas
+    2. Estadística y modelos
+    3. Cognición computarizada: el *nooscopio*
+    4. Delegación de funciones
+
+??? abstract "Capítulo 2: Materia"
+	1. Minerales, hardware y energía
+    2. Software, Datos y Redes
+    3. Almacenamiento, circulación y propiedad
+    4. Costos ambientales
+    5. Ciclo de vida
+
+??? abstract "Capítulo 3: Trabajo"
+	1. Trabajo y cambio tecnológico
+	2. Automatización
+	3. Trabajo oculto. Fauxtomatización
+	4. Cognitariado
+	5. Diseño de sistemas sociotécnicos
+
+??? abstract "Capítulo 3: Trabajo"
+	1. Trabajo y cambio tecnológico
+	2. Automatización
+	3. Trabajo oculto. Fauxtomatización
+	4. Cognitariado
+	5. Diseño de sistemas sociotécnicos
 
 
-### Capítulo 3 Trabajo
-
-#### Trabajo y cambio tecnológico
-
-https://informaticos.ar/litat-soberania-digital-en-argentina/
 
 
-#### Automatización
+## Proyecto del módulo
 
-#### Trabajo oculto
+Más allá de las actividades puntuales que se plantean en distintas lecciones, te proponemos un ejercicio práctico para que desarrolles a lo largo de todo el módulo. Al finalizar el cursado tendrás un documento personalizado con ideas y herramientas útiles para tu trabajo cotidiano.
 
-Lecturas:
-- Turco mecánico
-- Milagros Miceli. Presentación UNLP Autoridad epistémica en la IA https://www.youtube.com/live/vHp9fXZJ74I&t=1387 - Data Workers Inquiry https://data-workers.org/oskarina/
-¿Cuáles son los 4 tipos de roles que desarrollan los trabajadores de datos de la IA?
+!!! example "Proyecto del módulo"
+	
+	Así como los exploradores de la antiguedad trazaron mapas con los hitos y las coordenadas de los elementos destacados de los nuevos territorios, te proponemos construir tu propio mapa. No se trata de un cuaderno de apuntes o un resumen del módulo, se trata de una herramienta que te permita orientar tu camino. 
+	
 
 
-#### Cognitariado
 
-#### Modelos de negocio de la IA
 
-- Institución tipo observatorio. Investiga la trayectoria de la IA para beneficio de la sociedad. https://epoch.ai/
-- ¿Ya es redituable la IA? Seguimiento del estado financiero de las grandes empresas de IA https://isaiprofitable.com/
-
-#### Diseño de sistemas sociotécnicos. ¿Reemplazo, potenciación y qué más?
 
 
 
@@ -90,11 +91,11 @@ Lecturas:
 
 
 
-#### Poder y estado
-
 
 
 ### Capítulo 6 Política
+
+#### Poder y estado
 
 #### La metáfora del castillo
 
