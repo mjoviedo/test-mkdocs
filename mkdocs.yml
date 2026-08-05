@@ -101,9 +101,9 @@ nav:
       - 3. Modelos de lenguaje: modulo1/capitulo3/m1c3l3.md
 
     - Cap 4 | Infraestructura:
-      - 1. El "stack": modulo1/capitulo3/m1c3l1.md
-      - 2. MCPs: modulo1/capitulo3/m1c3l2.md
-      - 3. APIs: modulo1/capitulo3/m1c3l3.md
+      - 1. Stack: modulo1/capitulo4/m1c4l1.md
+      - 2. MCPs: modulo1/capitulo4/m1c4l2.md
+      - 3. APIs: modulo1/capitulo4/m1c4l3.md
 
   - Modulo 2:
     - Presentación: modulo2/m2-intro.md

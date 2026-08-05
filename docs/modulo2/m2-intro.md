@@ -3,7 +3,7 @@
 ### **Objetivo:**
 - Promover la comprensión de las discusiones más relevantes alrededor del uso de IA en el mundo real. El módulo propone profundizar la discusión sobre IA a partir de una amplia variedad de dimensiones: epistemológica, material, laboral, cultural, ética y política. Al finalizar el módulo, el cursante será capaz de pensar críticamente las tecnologías de IA desde diversos puntos de vista, habilitando pensar en profundiad su uso en un contexto educativo.
 
-### Capítulo 2.1 Conocimiento
+### Capítulo 1 Conocimiento
 
 #### El concepto de inteligencia y sus críticas
 
@@ -19,7 +19,7 @@
 
 
 
-### Capítulo 2.2 Materia
+### Capítulo 2 Materia
 
 #### Minerales, hardware y energía
 
@@ -34,7 +34,7 @@
 - Anatomy of AI https://anatomyof.ai/ Kate Crawford y Vladan Joler. El caso de Amazon Echo como mapa anatómico del trabajo humano, datos y recursos planetarios
 
 
-### Capítulo 2.3 Trabajo
+### Capítulo 3 Trabajo
 
 #### Trabajo y cambio tecnológico
 
@@ -62,7 +62,7 @@ Lecturas:
 
 
 
-### Capítulo 2.4. Cultura
+### Capítulo 4. Cultura
 
 #### Tecnodiversidad
 
@@ -78,19 +78,23 @@ Lecturas:
 
 
 
-### Capítulo 2.5 Ética
+### Capítulo 5 Ética
 
 #### Privacidad, dividualidad y perfilado
 
 #### Capitalismo de vigilancia
 
+- Reseña del libro de Shoshana Zuboff por Pablo Manolo Rodríguez: https://www.revistaanfibia.com/el-golpe-de-estado-de-las-plataformas-digitales/
+
 #### Democracia, Infocracia, Hipnocracia
+
+
 
 #### Poder y estado
 
 
 
-### Capítulo 2.6 Política
+### Capítulo 6 Política
 
 #### La metáfora del castillo
 
@@ -103,3 +107,5 @@ Lecturas:
 
 
 #### Mirada desde Latam. Desarrollo y dependencia tecnológica
+
+- Soberania digital en Argentina https://informaticos.ar/litat-soberania-digital-en-argentina/

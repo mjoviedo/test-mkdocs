@@ -101,7 +101,11 @@ markmap:
 
 #### Bases de datos de vectores
 
-#### RAG y Finetuning
+#### Corte de conocimiento
+
+#### Ventana de contexto
+
+#### RAG, finetuning, Wiki de Karpathy
 
 #### Razonamiento
 
