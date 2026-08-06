@@ -1,5 +1,3 @@
-!!! success ""
-    El curso *IA en Educación Superior* se propone como un espacio de formación abierta, permanente y colaborativa enfocada en el **uso e impacto de la IA en la educación superior argentina**. 
 
 ## 
 
@@ -8,6 +6,10 @@
 > \- Aquiles Gay, 2010
 
 ---
+
+!!! success ""
+    El curso *IA en Educación Superior* se propone como un espacio de formación abierta, permanente y colaborativa enfocada en el **uso e impacto de la IA en la educación superior argentina**. 
+
 
 ## Objetivos
 
@@ -28,6 +30,7 @@ Este curso está diseñado para ser cursado de forma virtual y asincrónica. No 
 Hemos diseñado un currículo de cuatro módulos, cada uno abarcando una dimensión indispensable para comprender y usar estas tecnologías adecuadamente: 
 
 1. **Módulo Fundamentos**: Qué son y cómo funcionan las tecnologías llamadas IA. IA generativa, LLMs. Alcances y limitaciones
+
 2. **Módulo Sociotécnico**: Cuáles son las discusiones más relevantes alrededor de su uso en el mundo real. Impactos en el trabajo, la economía, la cultura y la política.
 
 3. **Módulo Instrumental**: Competencias prácticas transversales (agnósticas de marcas y aplicaciones) para el uso de  herramientas de IA.

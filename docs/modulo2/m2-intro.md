@@ -38,12 +38,28 @@ Al finalizar el módulo, serás capaz de reconocer las discusiones claves en rel
 	4. Cognitariado
 	5. Diseño de sistemas sociotécnicos
 
-??? abstract "Capítulo 3: Trabajo"
-	1. Trabajo y cambio tecnológico
-	2. Automatización
-	3. Trabajo oculto. Fauxtomatización
-	4. Cognitariado
-	5. Diseño de sistemas sociotécnicos
+??? abstract "Capítulo 4: Cultura"
+	1. Tecnodiversidad
+	2. Autoría y propiedad intelectual
+	3. La metáfora del espejo
+	4. Problemas emergentes. Psicosis inducida por IA
+	5. Slop
+	6. Imaginarios futuros. Marte y las tecnologías entrañables
+
+??? abstract "Capítulo 5: Ética"
+
+	1. Privacidad, dividualidad y perfilado
+	2. Capitalismo de vigilancia
+	3. Democracia, Infocracia, Hipnocracia
+
+
+??? abstract "Capítulo 6: Política"
+
+	1. Poder y estado
+	2. La metáfora del castillo
+	3. Nuevos conflictos geopolíticos
+	4. Gobernanza y marcos regulatorios
+	5. Mirada desde Latam. Desarrollo y dependencia tecnológica
 
 
 
@@ -56,57 +72,3 @@ Más allá de las actividades puntuales que se plantean en distintas lecciones, 
 	
 	Así como los exploradores de la antiguedad trazaron mapas con los hitos y las coordenadas de los elementos destacados de los nuevos territorios, te proponemos construir tu propio mapa. No se trata de un cuaderno de apuntes o un resumen del módulo, se trata de una herramienta que te permita orientar tu camino. 
 	
-
-
-
-
-
-
-
-### Capítulo 4. Cultura
-
-#### Tecnodiversidad
-
-#### Autoría y propiedad intelectual
-
-#### La metáfora del espejo
-
-#### Problemas emergentes. Psicosis inducida por IA
-
-#### Slop
-
-#### Imaginarios futuros. Marte y las tecnologías entrañables
-
-
-
-### Capítulo 5 Ética
-
-#### Privacidad, dividualidad y perfilado
-
-#### Capitalismo de vigilancia
-
-- Reseña del libro de Shoshana Zuboff por Pablo Manolo Rodríguez: https://www.revistaanfibia.com/el-golpe-de-estado-de-las-plataformas-digitales/
-
-#### Democracia, Infocracia, Hipnocracia
-
-
-
-
-
-### Capítulo 6 Política
-
-#### Poder y estado
-
-#### La metáfora del castillo
-
-#### Nuevos conflictos geopolíticos
-
-#### Gobernanza y marcos regulatorios
-
-- Auditoría independiente de sistemas de IA https://www.eticas.ai/
-- Forénsica de la IA https://aiforensics.org/
-
-
-#### Mirada desde Latam. Desarrollo y dependencia tecnológica
-
-- Soberania digital en Argentina https://informaticos.ar/litat-soberania-digital-en-argentina/

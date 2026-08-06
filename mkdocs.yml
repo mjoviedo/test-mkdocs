@@ -92,8 +92,8 @@ nav:
       - 3. Introducción a modelos de ML: modulo1/capitulo2/m1c2l3.md
       - 4. Principales modelos: modulo1/capitulo2/m1c2l4.md
       - 5. La neurona y la red: modulo1/capitulo2/m1c2l5.md
-      - 7. Jugando con redes: modulo1/capitulo2/m1c2l6.md
-      - 8. Sesgo y sobreajuste: modulo1/capitulo2/m1c2l7.md
+      - 6. Jugando con redes: modulo1/capitulo2/m1c2l6.md
+      - 7. Sesgo y sobreajuste: modulo1/capitulo2/m1c2l7.md
 
     - Cap 3 | IA Generativa:
       - 1. Introducción al PLN: modulo1/capitulo3/m1c3l1.md
@@ -127,7 +127,25 @@ nav:
       - 4. Cognitariado: modulo2/capitulo3/m2c3l4.md
       - 5. Diseño de sistemas sociotécnicos: modulo2/capitulo3/m2c3l5.md
 
+    - Cap 4 | Cultura:
+      - 1. Tecnodiversidad: modulo2/capitulo4/m2c4l1.md
+      - 2. Autoría y propiedad intelectual: modulo2/capitulo4/m2c4l2.md
+      - 3. La metáfora del espejo: modulo2/capitulo4/m2c4l3.md
+      - 4. Problemas emergentes. Psicosis inducida por IA: modulo2/capitulo4/m2c4l4.md
+      - 5. Slop: modulo2/capitulo4/m2c4l5.md
+      - 6. Imaginarios futuros. Marte y las tecnologías entrañables: modulo2/capitulo4/m2c4l6.md
 
+    - Cap 5 | Ética:
+      - 1. Privacidad, dividualidad y perfilado: modulo2/capitulo5/m2c5l1.md
+      - 2. Capitalismo de vigilancia: modulo2/capitulo5/m2c5l2.md
+      - 3. Democracia, Infocracia, Hipnocracia: modulo2/capitulo5/m2c5l3.md
+
+    - Cap 6 | Política:
+      - 1. Poder y estado: modulo2/capitulo6/m2c6l1.md
+      - 2. La metáfora del castillo: modulo2/capitulo6/m2c6l2.md
+      - 3. Nuevos conflictos geopolíticos: modulo2/capitulo6/m2c6l3.md
+      - 4. Gobernanza y marcos regulatorios: modulo2/capitulo6/m2c6l4.md
+      - 5. Mirada desde Latam. Desarrollo y dependencia tecnológica: modulo2/capitulo6/m2c6l5.md
     
   - Modulo 3:
     - Presentación: modulo3/m3-intro.md
