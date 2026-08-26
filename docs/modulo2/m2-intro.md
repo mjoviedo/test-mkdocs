@@ -1,3 +1,8 @@
+---
+mark_as_read:
+    updated_at: 2026-08-26 17:00:00+03:00
+---
+
 !!! info "Descripción general"
 	En este módulo hacemos un paneo por las discusiones más relevantes alrededor del uso de IA en el mundo real. 
 

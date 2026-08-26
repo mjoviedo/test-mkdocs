@@ -28,6 +28,8 @@ jobs:
       - run: pip install mkdocs-material
       - run: pip install mkdocs-git-committers-plugin-2
       - run: pip install mkdocs-markmap
+      - run: pip install mkdocs-quiz
+      - run: pip install mkdocs-material-mark-as-read
       - run: mkdocs gh-deploy --force
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true

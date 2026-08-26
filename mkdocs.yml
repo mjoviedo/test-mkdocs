@@ -1,5 +1,5 @@
 site_name: IA en Educación Superior
-site_url: https://sitename.example
+site_url: https://github.com/mjoviedo/test-mkdocs
 repo_url: https://github.com/mjoviedo/test-mkdocs
 repo_name: mjoviedo/test-mkdocs
 edit_uri: edit/main/docs/
@@ -161,6 +161,31 @@ plugins:
       branch: main
       enabled: !ENV [CI, false]
   - markmap:
+  - mark-as-read:
+      texts:
+        mark_as_read: "Marcar como completada  :white_check_mark:"
+        mark_as_unread: "Desmarcar :material-restore:"
+        read_tooltip: Completado
+        updated_tooltip: El contenido ha sido actualizado
+        updated_icon: fontawesome-solid-circle-exclamation
+      include:
+        - /
+  - mkdocs_quiz:
+      enabled_by_default: true        # Enable quizzes by default on all pages
+      auto_number: false              # Auto-number questions (Question 1:, Question 2:, etc.)
+      show_correct: true              # Show correct answers when user gets it wrong
+      auto_submit: true               # Auto-submit single-choice quizzes on selection
+      disable_after_submit: true      # Disable question after first submission
+      shuffle_answers: false          # Randomize the order of answers
+      show_progress: true             # Show progress tracker sidebar and mobile bar
+      progress_sidebar_position: top  # Position of progress tracker: "top" or "bottom"
+      confetti: true                  # Show confetti animation when all quizzes completed
+      embed_source: true              # Embed quiz source in HTML for CLI URL fetching
+      language: es                    # Default language for quiz UI
+      language_patterns: []           # Auto-detect language based on file paths
+      custom_translations: {}         # Custom translation files
+      cli_run: {}                     # CLI runner menu configuration
+  
 
 extra:
   social:
@@ -181,6 +206,5 @@ extra:
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/EcoUNC/
   
-
 copyright: Producido por FyPE - Facultad de Ciencias Económicas - Universidad Nacional de Córdoba
 

@@ -3,10 +3,10 @@
 !!! tip "Todo aprendizaje es intercambio"
     La comunidad no es un complemento del curso sino un **espacio vital** para construir el aprendizaje. 
 
-Hemos diseñado un espacio en Discord, una plataforma de comunicación gratuita que permite a los usuarios interactuar mediante chat de texto, voz y video, así como compartir archivos y contenido multimedia.
+Hemos creado un grupo de Telegram para socializar durante la cursada, plantear y ayudar en inquietudes que puedan surgir y compartir materiales, discusiones y actualizaciones que creamos relevantes.
 
-Esperamos que pueda ser usado para expresar tus dudas e inquietudes, responder las consultas que puedas, compartir tus ideas e impresiones y aportar lo que creas que pueda servirle a otros en el cursado. 
+No queremos dejar de insistir en lo valioso que resulta fortalecer una comunidad como esta en un contexto como el actual. Te invitamos a sumarte y a invitar a quienn creas que pueda interesarle. 
 
-[Acceder a la comunidad :material-forum-outline:](https://discord.com/channels/1475561062299340822){ .md-button }
+[Acceder a la comunidad :material-forum-outline:](https://t.me/+SvG_wf3tjKlhOTUx){ .md-button }
 
 
